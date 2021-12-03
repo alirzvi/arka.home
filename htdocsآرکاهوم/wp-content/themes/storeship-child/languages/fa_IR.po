@@ -1,0 +1,1182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Storeship\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-06 16:33+0000\n"
+"PO-Revision-Date: 2020-12-26 20:18+0330\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+
+#: inc/woocommerce.php:665
+#, php-format
+msgid "   %s has been added to your wishist."
+msgstr "   %s به لیست دلخواه های شما اضافه شده است."
+
+#: inc/woocommerce.php:890
+msgid "% Off"
+msgstr "% تخفیف"
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:132
+#, php-format
+msgid "%1$s by %2$s."
+msgstr "%1$s توسط %2$s."
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:551
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "آیتم %d"
+msgstr[1] "آیتم %d"
+
+#: lib/info/class.info.php:121 lib/info/class.info.php:122
+#, php-format
+msgid "%s info"
+msgstr "اطلاعات %s"
+
+#: lib/info/class.info.php:232
+#, php-format
+msgid "%s() method does not exist."
+msgstr "متد %s() وجود ندارد."
+
+#: inc/customizer/customizer-default.php:171
+msgid "25% Off On 6 Genius Gadgets To Keep You Cool"
+msgstr ""
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#: inc/customizer/customizer-default.php:41
+msgid "50% Off"
+msgstr "50 % تخفیف"
+
+#: inc/woocommerce.php:1035
+#, php-format
+msgid ""
+"<span class=\"item-count\">%s</span>\n"
+"            <span class=\"item-texts\">item</span>"
+msgid_plural ""
+"<span class=\"item-count\">%s</span><span class=\"item-texts\">items</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/customizer-control.php:519
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: inc/customizer/theme-options.php:254
+msgid "Add Link"
+msgstr "اضافه کردن لینک"
+
+#: inc/customizer/theme-options.php:234
+msgid "Add Text"
+msgstr "اضافه کردن متن"
+
+#: inc/customizer/theme-options-woocommerce.php:113
+msgid "Add to Cart Button"
+msgstr "افزودن به دکمه سبد خرید"
+
+#: inc/widgets/widgets-register-sidebars.php:43
+msgid "Add widgets for main sidebar."
+msgstr "افزودن ابزارک برای سایدبار اصلی."
+
+#: inc/widgets/widgets-register-sidebars.php:13
+msgid "Add widgets for off-canvas panel."
+msgstr "ابزارک ها را به پرده ظاهرشونده بفرستید."
+
+#: inc/widgets/widgets-register-sidebars.php:23
+msgid "Add widgets to shop sidebar section."
+msgstr "ابزارک ها را به بخش سایدبار فروشگاه اضافه کنید."
+
+#: inc/widgets/widgets-register-sidebars.php:33
+msgid "Add widgets to single product sidebar section."
+msgstr "ابزارک ها را به بخش تک نوار کناری محصول اضافه کنید."
+
+#. Author of the theme
+msgid "AF themes"
+msgstr ""
+
+#: inc/tgmpa-functions.php:29
+msgid "Blockspare – Beautiful Page Building Gutenberg Blocks for WordPress"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:160
+#: inc/customizer/theme-options-frontpage-featured-footer.php:44
+msgid "Brands"
+msgstr "برند ها"
+
+#: inc/customizer/theme-options-woocommerce.php:27
+msgid "Button and Badge Texts"
+msgstr "متن دکمه و نشان"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:263
+#: inc/customizer/theme-options-frontpage.php:464
+msgid "Button Link"
+msgstr "لینک دکمه"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:243
+#: inc/customizer/theme-options-frontpage.php:442
+msgid "Button Text"
+msgstr "دکمه متن"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:145
+msgid "Call To Action"
+msgstr "بخش تبلیغاتی"
+
+#: inc/woocommerce.php:448 inc/woocommerce.php:519
+msgid "Cart Page"
+msgstr "صفحه سبد خرید"
+
+#: inc/customizer/theme-options-frontpage.php:44
+msgid "Categories and Search Bar"
+msgstr "دسته ها و نوار جستجو"
+
+#: inc/customizer/theme-options-frontpage.php:214
+msgid "Category Bar Placeholder"
+msgstr "ردیاب نوار دسته"
+
+#: inc/customizer/theme-options.php:187
+msgid "Changes may need cart refresh."
+msgstr "تغییرات ممکن است نیاز به تازه کردن سبد خرید داشته باشد."
+
+#: lib/info/info.php:122
+msgid "Child Theme"
+msgstr "قالب فرزند"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "نظرات بسته شده است."
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه برای &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s دیدگاه برای &ldquo;%2$s&rdquo;"
+
+#: inc/customizer/theme-options-contacts.php:24
+msgid "Contact Options"
+msgstr "تنظیمات بخش مشخصات فروشگاه"
+
+#: lib/info/info.php:104 lib/info/info.php:107
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+#: inc/customizer/customizer-default.php:343
+msgid "Contact Us"
+msgstr "تماس با ما"
+
+#: inc/customizer/theme-options.php:297
+msgid "Content - Primary Sidebar"
+msgstr "محتوا - سایدبار اصلی"
+
+#: inc/customizer/theme-options.php:345
+msgid "Content - Sidebar"
+msgstr "محتوا - سایدبار"
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:53
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "خواندن<span class=\"screen-reader-text\"> \"%s\"</span> را ادامه دهید"
+
+#: inc/customizer/customizer-default.php:373
+msgid "Copyright &copy; All rights reserved."
+msgstr "کپی رایت &copy; تمامی حقوق محفوظ است."
+
+#: inc/customizer/theme-options.php:471
+msgid "Copyright Text"
+msgstr "متن کپی رایت"
+
+#: inc/customizer/theme-options-frontpage.php:283
+msgid "Custom Content"
+msgstr "محتوای سفارشی"
+
+#. Name of the template
+msgid "Custom Front-page"
+msgstr "صفحه اول سفارشی"
+
+#: inc/customizer/theme-options.php:233
+msgid "Custom Link Text"
+msgstr "متن لینک سفارشی"
+
+#: inc/customizer/theme-options.php:212
+msgid "Custom Menu Section"
+msgstr "بخش منوی سفارشی"
+
+#: inc/customizer/theme-options.php:253
+msgid "Custom Text Link"
+msgstr "متن لینک سفارشی"
+
+#: lib/info/info.php:70
+msgid "Customize"
+msgstr "شخصی سازی"
+
+#: lib/info/info.php:27 lib/info/info.php:83 lib/info/info.php:86
+msgid "Demo Content"
+msgstr "محتوای دمو"
+
+#: inc/customizer/theme-options.php:120
+msgid "Disable Header Account Menu"
+msgstr "آیکون اکانت در هدر را غیرفعال کنید"
+
+#: inc/customizer/theme-options.php:167
+msgid "Disable Header Cart Menu"
+msgstr "منوی سبد خرید هدر را غیرفعال کنید"
+
+#: inc/customizer/customizer-default.php:42
+msgid "Discover over 850 Brands"
+msgstr "بیش از 850 برند تجاری"
+
+#: lib/info/class.info.php:126
+msgid "Dismiss this notice"
+msgstr "این اطلاعیه را رد کنید"
+
+#: inc/widgets/widgets-register-sidebars.php:53
+msgid "Displays items on footer first column."
+msgstr "نمایش آیتم ها در ستون اول فوتر."
+
+#: inc/widgets/widgets-register-sidebars.php:64
+msgid "Displays items on footer second column."
+msgstr "نمایش آیتم ها در ستون دوم فوتر."
+
+#: inc/widgets/widgets-register-sidebars.php:74
+msgid "Displays items on footer third column."
+msgstr "نمایش آیتم ها در ستون سوم فوتر."
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:119 inc/template-functions.php:512
+#: template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ویرایش کنید <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:62
+msgid "Enable Brand Section"
+msgstr "بخش برند را فعال کنید"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:163
+msgid "Enable CTA Section"
+msgstr "بخش تبلیغاتی را فعال کنید"
+
+#: inc/customizer/theme-options-frontpage-featured.php:151
+msgid "Enable Featured Product Section"
+msgstr "بخش محصولات ویژه را فعال کنید"
+
+#: inc/customizer/theme-options-frontpage.php:249
+msgid "Enable Main Banner"
+msgstr "بنر تبلیغاتی اصلی را فعال کنید"
+
+#: inc/customizer/theme-options-frontpage-featured.php:241
+msgid "Enable Offers Sections"
+msgstr "بخش تخفیفات را فعال کنید"
+
+#: inc/customizer/theme-options.php:55
+msgid "Enable preloader"
+msgstr "فعال سازی پیش لودر"
+
+#: inc/customizer/theme-options-frontpage-content.php:54
+#, php-format
+msgid "Enable Section %d"
+msgstr "بخش %d را فعال کنید"
+
+#: inc/customizer/theme-options-frontpage-featured.php:53
+msgid "Enable Store Features Section"
+msgstr "بخش ویژگی های فروشگاه را فعال کنید"
+
+#: inc/customizer/theme-options.php:320
+msgid "Enable WooCommerce Breadcrumbs"
+msgstr "بردکرامب ووکامرس را فعال کنید"
+
+#: inc/customizer/theme-options-frontpage-featured.php:113
+msgid "Feature Descriptions"
+msgstr "توضیحات ویژگی"
+
+#: inc/customizer/theme-options-frontpage-featured.php:95
+msgid "Feature Title"
+msgstr "عنوان ویژگی"
+
+#: inc/customizer/theme-options-frontpage.php:230
+msgid "Featured Categories"
+msgstr "دسته های ویژه"
+
+#: inc/customizer/theme-options-frontpage-featured.php:132
+msgid "Featured Products"
+msgstr "محصولات ویژه"
+
+#: inc/customizer/customizer-default.php:185
+msgid "Flash Story"
+msgstr "فلش استوری"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:31
+msgid "Footer Featured Slider"
+msgstr "فوتر ویژه"
+
+#: inc/widgets/widgets-register-sidebars.php:51
+msgid "Footer First Section"
+msgstr "بخش اول فوتر"
+
+#: functions.php:65
+msgid "Footer Menu"
+msgstr "منوی پاورقی"
+
+#: inc/customizer/theme-options.php:453
+msgid "Footer Options"
+msgstr "تنظیمات فوتر"
+
+#: inc/widgets/widgets-register-sidebars.php:62
+msgid "Footer Second Section"
+msgstr "بخش دوم فوتر"
+
+#: inc/widgets/widgets-register-sidebars.php:72
+msgid "Footer Third Section"
+msgstr "بخش سوم فوتر"
+
+#: lib/info/info.php:124
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself. Using this approach, you wont "
+"lose the customization after theme update."
+msgstr ""
+"برای سفارشی سازی پیشرفته قالب، توصیه می شود از قالب فرزند استفاده کنید "
+"تغییراتتان را روی آن تست نمائید."
+
+#: inc/customizer/theme-options-woocommerce.php:156
+#: inc/customizer/theme-options-woocommerce.php:213
+msgid "Four"
+msgstr "چهار"
+
+#: lib/info/class.info.php:411
+msgid "Free"
+msgstr "رایگان"
+
+#: inc/customizer/theme-options-frontpage-content.php:20
+msgid "Frontpage Content Section"
+msgstr "بخش محتوای صفحه اول"
+
+#: inc/customizer/theme-options-frontpage-featured.php:20
+msgid "Frontpage Featured Section"
+msgstr "بخش ویژه صفحه اول"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:21
+msgid "Frontpage Footer Featured Section"
+msgstr "بخش ویژه تبلیغاتی"
+
+#: inc/customizer/theme-options-frontpage.php:28
+msgid "Frontpage Main Banner Options"
+msgstr "گزینه های اسلایدر صفحه اول"
+
+#: inc/customizer/theme-options.php:299 inc/customizer/theme-options.php:347
+msgid "Full Width Content"
+msgstr "محتوای عریض"
+
+#: inc/customizer/customizer-default.php:44
+msgid "Get Offer"
+msgstr "مشاهده پیشنهاد"
+
+#: lib/info/class.info.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr "شروع کنید با %1$s"
+
+#: lib/info/info.php:24
+msgid "Getting Started"
+msgstr "اکنون شروع کنید"
+
+#: inc/customizer/theme-options.php:292
+msgid "Global Content Alignment"
+msgstr "ترازبندی محتوای عمومی"
+
+#: inc/customizer/theme-options.php:274
+msgid "Global Layout Options"
+msgstr "تنظیمات پیکربندی عمومی"
+
+#: inc/review.php:108
+msgid "Got any support queries?"
+msgstr "سوالی ازپشتیبانی دارید؟"
+
+#: lib/info/info.php:106
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+"آیا به مشکل برخورده اید یا سئوالی از پشتیبانی قالب دارید؟ بهترین مکان برای "
+"رسیدن به جواب، انجمن تخصصی است که برای پشتیبانی این قالب راه اندازی شده است."
+
+#: inc/customizer/theme-options.php:100
+msgid "Header Account Menu"
+msgstr "آیکون اکانت هدر"
+
+#: inc/customizer/customizer.php:115
+msgid "Header Image URL"
+msgstr "آدرس اینترنتی تصویر هدر"
+
+#: inc/customizer/theme-options.php:147
+msgid "Header Minicart Menu"
+msgstr "منوی مینی کارت هدر"
+
+#: inc/customizer/theme-options.php:69
+msgid "Header Options"
+msgstr "تنظیمات هدر"
+
+#: lib/info/info.php:20
+#, php-format
+msgid ""
+"Howdy %1$s, we would like to thank you for installing and activating %2$s "
+"theme for your precious site. All of the features provided by the theme are "
+"now ready to use; Here, we have gathered all of the essential details and "
+"helpful links for you and your better experience with %2$s. Once again, "
+"Thanks for using our theme!"
+msgstr ""
+"حالتون چطوره با  %1$s، ما می خواهیم از شما برای نصب و فعال کردن قالب %2$s "
+"تشکر کنیم. تمام ویژگی های ارائه شده توسط قالب اکنون برای استفاده شما آماده "
+"است؛ در اینجا، ما تمام اطلاعات مهم و مفیدی برای شما در جهت استفاده هرچه بهتر "
+"%2$s جمع آوری کرده ایم. در آخر یک بار دیگر، از شما برای استفاده از این قالب "
+"تشکر می کنیم!"
+
+#. %1$s current user display name.
+#: inc/review.php:79
+#, php-format
+msgid ""
+"Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we "
+"hope you are loving it! We would appreciate it if you can %3$sgive us a 5 "
+"star rating on WordPress.org%4$s! We'll continue to develop exciting new "
+"features for free in the future by sharing the love!"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://afthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://afthemes.com/products/storeship/"
+msgstr ""
+
+#: inc/review.php:103
+msgid "I've already done."
+msgstr "من قبلاً کار کردم"
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"به نظر می رسد چیزی در اینجا یافت نشده است. تمایل دارید از قسمت زیر جستجو را "
+"امتحان کنید؟"
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"به نظر می رسد که می توانیم به راحتی آنچه را که شما جستجو می کنید پیدا کنیم ؛ "
+"شاید جستجو به شما کمک کند ."
+
+#: inc/customizer/theme-options.php:359
+#: inc/customizer/customizer-default.php:366
+msgid "Latest Posts"
+msgstr "آخرین پست ها"
+
+#: inc/tgmpa-functions.php:34
+msgid "Latest Posts Block Lite"
+msgstr "آخرین ارسال ها Block Lite"
+
+#. If there are characters in your language that are not supported by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:159
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: lib/info/info.php:125
+msgid "Learn More"
+msgstr "ادامه مطلب"
+
+#. %s: post title
+#: inc/template-tags.php:102
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "کامنت بگذارید<span class=\"screen-reader-text\"> در %s</span>"
+
+#. 1: list of categories.
+#: inc/template-tags.php:84
+#, php-format
+msgctxt "list item"
+msgid "Posted in %1$s"
+msgstr "ارسال شده در %1$s"
+
+#. 1: list of tags.
+#: inc/template-tags.php:91
+#, php-format
+msgctxt "list item"
+msgid "Tagged %1$s"
+msgstr "برچسب خورده %1$s"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:88
+msgctxt "list item separator"
+msgid "&nbsp"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-functions.php:500
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/woocommerce.php:1143
+msgid "Login"
+msgstr "ورود"
+
+#: inc/woocommerce.php:1145
+msgid "Login/Register"
+msgstr "ورود / ثبت نام"
+
+#: inc/tgmpa-functions.php:39
+msgid "Magic Content Box Lite"
+msgstr ""
+
+#: inc/customizer/customizer.php:136
+msgid "Main Banner Texts Color"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:41
+msgid "Main Sidebar"
+msgstr "سایدبار اصلی"
+
+#: inc/customizer/theme-options-frontpage.php:260
+msgid "Main Slider"
+msgstr "اسلایدر اصلی"
+
+#: inc/customizer/customizer-default.php:192
+msgid "Main Story"
+msgstr "استوری اصلی"
+
+#: lib/info/class.info.php:341 lib/info/class.info.php:382
+msgid "Manage Plugins"
+msgstr "مدیریت افزونه ها"
+
+#: inc/customizer/customizer-default.php:339
+msgid "More Stories"
+msgstr "داستانهای بیشتر"
+
+#: inc/customizer/theme-options.php:325
+#: inc/customizer/theme-options-woocommerce.php:192
+#: inc/customizer/theme-options-frontpage.php:130
+#: inc/customizer/theme-options-frontpage.php:152
+msgid "No"
+msgstr "خیر"
+
+#: inc/customizer/theme-options-frontpage-content.php:159
+msgid "No. of Products"
+msgstr "تعداد محصولات"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: inc/widgets/widgets-register-sidebars.php:11
+msgid "Off-canvas Panel"
+msgstr "پنل پرده ظاهرشونده"
+
+#: inc/tgmpa-functions.php:50 lib/info/info.php:85 lib/info/info.php:139
+msgid "One Click Demo Import"
+msgstr "ورود دمو با یک کلیک"
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "یک نظر برای &ldquo;%1$s&rdquo;"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! آن صفحه به راحتی می تواند پیدا شود"
+
+#: inc/customizer/theme-options-frontpage.php:282
+msgid "Page Content"
+msgstr "محتوای صفحه"
+
+#: template-parts/content-page.php:25 template-parts/content.php:67
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: inc/customizer/theme-options.php:433
+msgid "Payment Icon"
+msgstr "آیکون پرداخت"
+
+#: lib/info/info.php:52 lib/info/info.php:115
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+"لطفا مستندات کامل ما را برای چگونگی سفارشی سازی و استفاده از قالب بررسی "
+"نمائید."
+
+#. %s: post author.
+#: inc/template-tags.php:44
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr "توسط %s"
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "نوشته شده در%s"
+
+#: inc/customizer/theme-options.php:37
+msgid "Preloader Options"
+msgstr "تنظیمات پیش لودر"
+
+#: lib/info/class.info.php:412
+msgid "Premium"
+msgstr "نسخه حرفه ای"
+
+#: functions.php:62 inc/blocks/header/block-header-default.php:41
+msgid "Primary Menu"
+msgstr "منوی اصلی"
+
+#: inc/customizer/theme-options.php:298
+msgid "Primary Sidebar - Content"
+msgstr "سایدبار اصلی - محتوا"
+
+#: inc/customizer/theme-options-frontpage-content.php:140
+msgid "Product Categories"
+msgstr "دسته بندی محصولات"
+
+#: inc/customizer/theme-options-frontpage-featured.php:207
+msgid "Product Category 1"
+msgstr "دسته بندی محصولات 1"
+
+#: lib/info/class.info.php:410
+msgid "Product Features"
+msgstr "ویژگی های محصول"
+
+#: inc/customizer/theme-options-frontpage-content.php:79
+msgid "Product Grid"
+msgstr "محصولات شبکه ای"
+
+#: inc/customizer/theme-options-frontpage-content.php:78
+msgid "Product List"
+msgstr "لیست محصولات"
+
+#: inc/customizer/theme-options-woocommerce.php:95
+msgid "Product Loop"
+msgstr "چرخش محصول"
+
+#: inc/customizer/theme-options-woocommerce.php:169
+msgid "Product Page"
+msgstr "صفحه محصول"
+
+#: inc/customizer/theme-options-frontpage-content.php:36
+#, php-format
+msgid "Products Section  %d"
+msgstr "بخش محصولات  %d"
+
+#: inc/widgets/widgets-common-functions.php:128
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: inc/customizer/customizer-default.php:330
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"آماده انتشار اولین پست خود هستید؟ <a href=\"%1$s\">از اینجا شروع کنید</a>."
+
+#: inc/customizer/theme-options.php:434
+#: inc/customizer/theme-options-frontpage-featured-footer.php:125
+#: inc/customizer/theme-options-frontpage-featured-footer.php:218
+#, php-format
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "%1$s px X %2$s px"
+
+#: inc/customizer/theme-options-woocommerce.php:208
+msgid "Related Products per Rows"
+msgstr "محصولات مرتبط در هر ردیف"
+
+#: inc/review.php:98
+msgid "Remind me later"
+msgstr "بعدا به من یادآوری کن"
+
+#. If there are characters in your language that are not supported by Oswald, translate this to 'off'. Do not translate into your own language.
+#: functions.php:154
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/theme-options-woocommerce.php:44
+msgid "Sale Texts"
+msgstr "متن حراج"
+
+#: inc/customizer/theme-options-frontpage.php:196
+msgid "Search Bar Placeholder"
+msgstr "مکان نوار جستجو"
+
+#: inc/customizer/theme-options-frontpage.php:178
+msgid "Search Bar Section"
+msgstr "بخش نوار جستجو"
+
+#: inc/template-functions.php:784
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: inc/customizer/theme-options.php:396
+#: inc/customizer/theme-options-frontpage-featured.php:170
+#: inc/customizer/theme-options-frontpage.php:104
+#: inc/customizer/theme-options-frontpage-content.php:100
+msgid "Section Title"
+msgstr "بخش عنوان"
+
+#: inc/customizer/theme-options-frontpage-featured.php:190
+#: inc/customizer/theme-options-frontpage-content.php:120
+msgid "Section Title Note"
+msgstr "عنوان بخش یادداشت"
+
+#: inc/customizer/theme-options.php:411
+msgid "Secure Payment Badge"
+msgstr "آیکون پرداخت امن"
+
+#: inc/customizer/customizer-control.php:109
+msgid "Select"
+msgstr "انتخاب کنید"
+
+#: inc/widgets/widgets-common-functions.php:72
+msgid "Select Category"
+msgstr "انتخاب دسته بندی"
+
+#: inc/customizer/theme-options.php:293
+msgid "Select global content alignment"
+msgstr "ترازبندی عمومی محتوا را انتخاب کنید"
+
+#: inc/customizer/theme-options-frontpage-featured.php:287
+#, php-format
+msgid "Select Image %d"
+msgstr "تصویر%dرا انتخاب کنید"
+
+#: inc/customizer/theme-options-frontpage.php:332
+msgid "Select Page"
+msgstr "انتخاب صفحه"
+
+#: inc/customizer/theme-options-frontpage-content.php:74
+msgid "Select Section Type"
+msgstr "نوع بخش را انتخاب کنید"
+
+#: inc/customizer/theme-options-frontpage.php:278
+msgid "Select Slider Content"
+msgstr "محتوای اسلایدر را انتخاب کنید"
+
+#: inc/customizer/theme-options-frontpage-featured.php:78
+msgid "Set Features "
+msgstr "تنظیم ویژگی ها"
+
+#: inc/customizer/theme-options-frontpage-featured.php:268
+msgid "Set Offer "
+msgstr "تنظیم پیشنهاد"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:106
+#: inc/customizer/theme-options-frontpage.php:312
+msgid "Set Slide "
+msgstr "تنظیم بخش"
+
+#: inc/customizer/customizer-default.php:174
+msgid "Shop Now"
+msgstr "الان بخرید"
+
+#: inc/customizer/theme-options-woocommerce.php:131
+msgid "Shop Page"
+msgstr "صفحه فروشگاه"
+
+#: inc/customizer/theme-options-woocommerce.php:150
+msgid "Shop Product Columns"
+msgstr "ستون های محصولات فروشگاه"
+
+#: inc/widgets/widgets-register-sidebars.php:21
+msgid "Shop Sidebar"
+msgstr "سایدبار فروشگاه"
+
+#: inc/customizer/theme-options.php:341
+msgid "Shop/Single Content Alignment"
+msgstr "خرید / هم ترازی مطالب"
+
+#: inc/customizer/theme-options.php:378
+msgid "Show above footer"
+msgstr "نمایش در بالای فوتر"
+
+#: inc/customizer/theme-options-woocommerce.php:118
+msgid "Show Always"
+msgstr "همیشه نشان دهید"
+
+#: inc/customizer/theme-options-frontpage.php:63
+msgid "Show Categories and Search Bar"
+msgstr "نمایش دسته ها و نوار جستجو"
+
+#: inc/customizer/theme-options-woocommerce.php:117
+msgid "Show on Hover"
+msgstr "نمایش در هاور"
+
+#: inc/customizer/theme-options-frontpage.php:147
+msgid "Show On-sale Product Count"
+msgstr "نمایش تعداد محصولات فروش"
+
+#: inc/customizer/theme-options-frontpage.php:125
+msgid "Show Product Count"
+msgstr "نمایش تعداد محصولات"
+
+#: inc/customizer/theme-options-woocommerce.php:187
+msgid "Show Related Products"
+msgstr "نمایش محصولات مرتبط"
+
+#: inc/customizer/theme-options.php:346
+msgid "Sidebar - Content"
+msgstr "سایدبار - محتوا"
+
+#: inc/customizer/theme-options-woocommerce.php:80
+msgid "Simple Product Add to Cart Texts"
+msgstr "اضافه کردن ساده محصول به متون سبد خرید"
+
+#: inc/customizer/theme-options-woocommerce.php:63
+msgid "Single Add to Cart Texts"
+msgstr "افزودن یک متن برای سبد خرید"
+
+#: inc/widgets/widgets-register-sidebars.php:31
+msgid "Single Product Sidebar"
+msgstr "سایدبار تک محصول"
+
+#: inc/customizer/customizer.php:90
+msgid "Site Title Size"
+msgstr "سایز عنوان سایت"
+
+#: inc/customizer/customizer.php:97
+msgid "Site Title/Tagline Color"
+msgstr "عنوان سایت/رنگ تگ لاین"
+
+#: header.php:48
+msgid "Skip to content"
+msgstr "رد شدن از محتوا"
+
+#: inc/customizer/theme-options-frontpage-featured.php:349
+msgid "Slide Button"
+msgstr "متن دکمه"
+
+#: inc/customizer/theme-options-frontpage-featured.php:367
+msgid "Slide Link"
+msgstr "پیوند پیشنهاد"
+
+#: inc/customizer/theme-options-frontpage-featured.php:331
+msgid "Slide Subtitle"
+msgstr "زیرنویس"
+
+#: inc/customizer/theme-options-frontpage-featured.php:312
+msgid "Slide Title"
+msgstr "عنوان"
+
+#: functions.php:64
+msgid "Social Menu"
+msgstr "منوی شبکه اجتماعی"
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"متأسفیم ، هیچ چیزی با شرایط جستجوی شما یافت نشد . لطفاً با برخی از کلمات "
+"کلیدی مختلف دوباره امتحان کنید ."
+
+#: lib/info/info.php:59 lib/info/info.php:62
+msgid "Static Front Page"
+msgstr "صفحه اول به صورت استاتیک"
+
+#: inc/customizer/customizer-default.php:170
+msgid "Step out in this Summer"
+msgstr "در این تابستان قدم بیرون بگذارید"
+
+#: inc/customizer/theme-options-contacts.php:41
+msgid "Store Address"
+msgstr "آدرس فروشگاه"
+
+#: inc/customizer/theme-options-contacts.php:75
+msgid "Store Email"
+msgstr "ایمیل فروشگاه"
+
+#: inc/customizer/theme-options-frontpage-featured.php:34
+msgid "Store Features and Facilities"
+msgstr "ویژگی ها و امکانات فروشگاه"
+
+#: inc/customizer/customizer-default.php:218
+msgid "Store Features Thumb"
+msgstr "ویژگی های فروشگاه Thumb"
+
+#: inc/customizer/theme-options-frontpage-featured.php:223
+msgid "Store Offers"
+msgstr "پیشنهادات فروشگاه"
+
+#: inc/customizer/theme-options-contacts.php:58
+msgid "Store Phone"
+msgstr "تلفن فروشگاه"
+
+#. Name of the theme
+msgid "Storeship"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Storeship is a new, versatile and scalable WordPress / WooCommerce multi-"
+"purpose theme. Crafted with substantial study in mind on new online shopping "
+"sites and eCommerce features. With a sleek style, stable usability and "
+"excellent user experience, it is a mobile responsive theme.With the support "
+"of live customizer theme options, when you start creating a gorgeous store, "
+"you can launch it as a fashion and clothing store, accessories shop, home "
+"appliances site, car store, digital shop, interior store, book shop, picture "
+"shop, movie shop, online food order platforms and more. The theme is "
+"consistent with Gutenberg / RTL as well as designed to put the website at "
+"the top of the search engines. If any issues arise whilst using the theme, "
+"users will get excellent team support."
+msgstr ""
+
+#: inc/customizer/customizer.php:154
+msgid "Storeship Pro"
+msgstr "نسخه پرو قالب"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:197
+#: inc/customizer/theme-options-frontpage.php:415
+msgid "Subtitle"
+msgstr "عنوان فرعی"
+
+#: lib/info/info.php:25
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: inc/review.php:93
+msgid "Sure thing"
+msgstr "چیز مطمئنی"
+
+#. 1: list of tags.
+#: inc/template-functions.php:503
+#, php-format
+msgid "Tagged %1$s"
+msgstr "برچسب خورده %1$s"
+
+#: inc/customizer/customizer-default.php:165
+msgid "Testimonials"
+msgstr "بخش گواهی ها"
+
+#: lib/info/info.php:33
+msgid "Theme Details"
+msgstr "جزئیات قالب"
+
+#: lib/info/info.php:50 lib/info/info.php:113
+msgid "Theme Documentation"
+msgstr "مستندات قالب"
+
+#: inc/customizer/theme-options.php:27 lib/info/info.php:67
+msgid "Theme Options"
+msgstr "تنظیمات قالب"
+
+#: lib/info/info.php:91
+msgid "Theme Preview"
+msgstr "پیش نمایش قالب"
+
+#: lib/info/info.php:134
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+"این قالب از برخی افزونه های مفید وردپرسی نیز پشتیبانی می کند تا بهره وری "
+"سایت شما را افزایش دهد. لطفا فقط افزونه هایی که به آن ها نیاز دارید را فعال "
+"نمائید. برای مثال، اگر در حوزه تجارت الکترونیک فعالیت می کنید، ووکامرس را "
+"فعال کنید."
+
+#: lib/info/info.php:69
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+"قالب از API برای سفارشی سازی قالب استفاده می کند. با استفاده از آن شما به "
+"راحتی می توانید قالب را در حالات مختلف سفارشی سازی کنید."
+
+#: lib/info/info.php:77
+msgid ""
+"Theme uses Wedgets API for widget options. Using the Widgets you can easily "
+"customize different aspects of the theme."
+msgstr ""
+"قالب از API برای تنظیمات ابزارک استفاده می کند. با استفاده از ابزارک شما به "
+"راحتی می توانید قالب را در حالات مختلف سفارشی سازی کنید."
+
+#: inc/customizer/theme-options-woocommerce.php:155
+#: inc/customizer/theme-options-woocommerce.php:212
+msgid "Three"
+msgstr "سه"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:79
+#: inc/customizer/theme-options-frontpage-featured-footer.php:180
+#: inc/customizer/theme-options-frontpage.php:391
+msgid "Title"
+msgstr "عنوان"
+
+#: lib/info/info.php:61
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and "
+"set static front page."
+msgstr ""
+"برای دستیابی به صفحه اصلی برای سفارشی سازی، شما باید صفحه اصلی استاتیک را "
+"ایجاد و تنظیم نمائید."
+
+#: lib/info/info.php:139
+#, php-format
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see Import Demo Data menu under Appearance."
+msgstr ""
+"برای وارد کردن محتوای دمو برای این قالب، افزونه %1$s مورد نیاز است. لطفا "
+"مطمئن شوید که افزونه نصب و فعال شده است. پس از فعال شدن افزونه، Import Demo "
+"Data را در منوی \"نمایش\" خواهید دید."
+
+#: lib/info/info.php:85
+#, php-format
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and "
+"activated. After plugin is activated, visit Import Demo Data menu under "
+"Appearance."
+msgstr ""
+"برای وارد کردن محتوای دمو، افزونه %1$s باید نصب و فعال شود. پس از فعال شدن "
+"افزونه، به منوی Import Demo Data در قسمت نمایش مراجعه کنید."
+
+#: inc/customizer/theme-options-frontpage.php:83
+msgid "Top Category Section"
+msgstr "بخش دسته تاپ"
+
+#: functions.php:63
+msgid "Top Menu"
+msgstr "منوی تاپ"
+
+#: inc/customizer/customizer.php:155
+msgid "Upgrade now"
+msgstr "اکنون آپدیت کنید"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:217
+msgid "Upload Image "
+msgstr "آپلود تصویر"
+
+#: inc/customizer/theme-options-frontpage-featured-footer.php:124
+#: inc/customizer/theme-options-frontpage.php:358
+#, php-format
+msgid "Upload Image %d"
+msgstr "بارگذاری تصویر%d"
+
+#: lib/info/info.php:26
+msgid "Useful Plugins"
+msgstr "افزونه های مفید"
+
+#: inc/blocks/block-functions.php:92 inc/blocks/block-functions.php:222
+#: inc/blocks/section/block-section-frontpage-tabbed.php:49
+msgid "View all"
+msgstr "مشاهده همه"
+
+#: inc/template-functions.php:284
+#, php-format
+msgid "View all posts in %s"
+msgstr "مشاهده تمامی پست ها در %s"
+
+#: inc/blocks/block-functions.php:144
+#, php-format
+msgid "View all products in %s"
+msgstr "مشاهده همه محصولات در%s"
+
+#: lib/info/info.php:94
+msgid "View Demo"
+msgstr "نمایش نسخه ی نمایشی"
+
+#: lib/info/info.php:37
+msgid "View Demos"
+msgstr "مشاهده دمو"
+
+#: lib/info/info.php:41 lib/info/info.php:53 lib/info/info.php:116
+msgid "View Documentation"
+msgstr "مشاهده مستندات"
+
+#: inc/woocommerce.php:683
+msgid "View Wishlist"
+msgstr "نمایش لیست علاقه مندی ها"
+
+#: inc/woocommerce.php:547
+msgid "View your shopping cart"
+msgstr "سبد خرید خود را مشاهده کنید"
+
+#: inc/customizer/customizer-default.php:43
+msgid "Visit our shop to see amazing products"
+msgstr "برای دیدن محصولات شگفت انگیز به فروشگاه ما مراجعه کنید"
+
+#: inc/customizer/customizer-default.php:27
+msgid "Visit Store"
+msgstr "بازدید فروشگاه"
+
+#: lib/info/class.info.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme details page."
+msgstr ""
+"خوش آمدی! با تشکر از شما برای انتخاب %1$s. برای استفاده هرچه بهتر از قالب ما "
+"می توانید سری به جزئیات قالب بزنید."
+
+#: lib/info/info.php:75 lib/info/info.php:78
+msgid "Widgets"
+msgstr "ابزارک ها"
+
+#: inc/woocommerce.php:671
+msgid "WishList Items"
+msgstr "آیتم های مورد علاقه"
+
+#: inc/tgmpa-functions.php:19
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: inc/tgmpa-functions.php:45
+msgid "WP Post Author"
+msgstr "نویسنده پست WP"
+
+#: inc/customizer/theme-options.php:324
+#: inc/customizer/theme-options-woocommerce.php:191
+#: inc/customizer/theme-options-frontpage.php:129
+#: inc/customizer/theme-options-frontpage.php:151
+msgid "Yes"
+msgstr "بله"
+
+#: inc/tgmpa-functions.php:24
+msgid "YITH WooCommerce Wishlist"
+msgstr "افزونه ووکامرس ( علاقه مندی )"
+
+#: lib/info/info.php:93
+msgid ""
+"You can check out the theme demos for reference to find out what you can "
+"achieve using the theme and how it can be customized."
+msgstr ""
+"شما می توانید با جستجویی کوچک مراجعی را برای استفاده از دموی قالب و چگونگی "
+"سفارشی سازی آن بیابید."

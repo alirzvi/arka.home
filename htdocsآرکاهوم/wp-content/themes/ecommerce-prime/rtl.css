@@ -1,0 +1,100 @@
+/*
+Theme Name: eCommerce Prime
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+#widgets-nav,
+.dropdown-category-wrapper .twp-dropdown-title {
+    margin-left: 15px;
+    margin-right: 0;
+}
+
+body.sidr-nav-open .menu-icon__line-left {
+    -webkit-transform: translateX(-14px) rotate(45deg);
+    transform: translateX(-14px) rotate(45deg);
+}
+
+.twp-cat-list select {
+    -webkit-border-radius: 0 5px 5px 0;
+    border-radius: 0 5px 5px 0;
+}
+
+.twp-search-submit {
+    -webkit-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
+}
+
+.twp-minicart .minicart-content {
+    left: 0;
+    right: inherit;
+}
+
+.twp-headerarea .social-icons {
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+.dropdown-arrow-icon,
+.twp-dropdown-title:hover .dropdown-arrow-icon {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.twp-hamburger-icon span {
+    left: 0;
+    right: 14px;
+}
+
+.twp-hamburger-icon span:before {
+    right: -14px;
+    left: 0;
+}
+
+.widget-title:after {
+    right: 0;
+    left: inherit;
+}
+
+.scroll-up {
+    left: 40px;
+    right: inherit;
+}
+
+.woocommerce div.product.twp-has-thumbnail div.images {
+    padding-left: 0;
+    padding-right: 100px;
+}
+
+.woocommerce div.product div.images .flex-control-nav {
+    right: 0;
+    left: inherit;
+}
+
+.twp-main-container > article {
+    float: right;
+}
+
+.entry-meta .author-img {
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.footer-menu {
+    float: left;
+}
+
+@media screen and (max-width: 991px) {
+    .footer-menu {
+        float: right;
+    }
+}
+
+.footer-menu ul li:last-child a {
+    padding-left: 0;
+    padding-right: 5px;
+}

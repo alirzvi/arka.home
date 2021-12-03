@@ -1,0 +1,41 @@
+@font-face {
+  font-family: sahel;
+  font-style: normal;
+  font-weight: bold;
+  src: url('fonts/sahel/Sahel-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: sahel;
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/sahel/Sahel.woff') format('woff');
+}
+
+body, button, input, select, textarea {
+	font-family: sahel !important;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: sahel !important;
+}
+
+pre {
+  font-family: sahel !important;
+}
+
+.gallery-caption {
+  font-family: sahel !important;
+}
+
+.site-title a {
+  font-family: sahel !important;
+}
+
+.section-title {
+  font-family: sahel !important;
+}
+
+.page .site-main .entry-content h2 {
+  font-family: sahel !important;
+}

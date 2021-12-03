@@ -1,0 +1,2549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-01-05 11:18+0330\n"
+"PO-Revision-Date: 2021-01-05 11:25+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ecommerce-prime\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_n_noop:1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! آن صفحه به راحتی می تواند پیدا شود"
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"به نظر می رسد چیزی در اینجا یافت نشده است. تمایل دارید از قسمت زیر جستجو را "
+"امتحان کنید؟"
+
+#: classes/class-about-page.php:131 classes/class-about-page.php:132
+msgid "About "
+msgstr "درباره "
+
+#: classes/class-about-page.php:196
+#, php-format
+msgid ""
+" First off, We’d like to extend a warm welcome and thank you for choosing "
+"%1$s. %1$s is now installed and ready to use. We hope the following "
+"information will help you. If you want to ask any query or just want to say "
+"hello, you can always contact us. Again, Thank you for using our theme!"
+msgstr ""
+
+#: classes/class-about-page.php:207
+msgid "Theme Details"
+msgstr "جزئیات قالب"
+
+#: classes/class-about-page.php:212
+msgid "View Demo"
+msgstr "نمایش نسخه ی نمایشی"
+
+#: classes/class-about-page.php:217 classes/class-about-page.php:395
+msgid "View Documentation"
+msgstr "مشاهده مستندات"
+
+#: classes/class-about-page.php:275
+#, php-format
+msgid "%s() method does not exist."
+msgstr "متد %s() وجود ندارد."
+
+#: classes/class-about-page.php:298 classes/class-about-page.php:585
+#: classes/class-admin-notice.php:92
+msgid "Quick Setup"
+msgstr ""
+
+#: classes/class-about-page.php:300 classes/class-admin-notice.php:94
+msgid "Install recommended plugins just by click button."
+msgstr ""
+
+#: classes/class-about-page.php:303 classes/class-admin-notice.php:97
+msgid "Install and Active all recommended plugins."
+msgstr ""
+
+#: classes/class-about-page.php:305 classes/class-admin-notice.php:99
+msgid "No Thanks, I prefer custom setup."
+msgstr ""
+
+#: classes/class-about-page.php:312
+msgid ""
+"Quick Setup is now complete. If you've any further questions or feedback? Go "
+"to the support section and we’ll gladly help."
+msgstr ""
+
+#: classes/class-about-page.php:331 inc/customizer/theme-option.php:13
+msgid "Theme Options"
+msgstr "تنظیمات قالب"
+
+#: classes/class-about-page.php:334
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+"قالب از API برای سفارشی سازی قالب استفاده می کند. با استفاده از آن شما به "
+"راحتی می توانید قالب را در حالات مختلف سفارشی سازی کنید."
+
+#: classes/class-about-page.php:338
+msgid "Customize"
+msgstr "شخصی سازی"
+
+#: classes/class-about-page.php:347
+msgid "Widget Ready"
+msgstr "ابزارک آماده"
+
+#: classes/class-about-page.php:350
+msgid "eCommerce Prime has predesigned custom widgets for sidebars."
+msgstr ""
+
+#: classes/class-about-page.php:354
+msgid "View Widgets"
+msgstr "مشاهده ابزارک ها"
+
+#: classes/class-about-page.php:378 classes/class-about-page.php:382
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+#: classes/class-about-page.php:380
+msgid ""
+"Got theme support question or found bug or got some feedback? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: classes/class-about-page.php:391
+msgid "Theme Documentation"
+msgstr "مستندات قالب"
+
+#: classes/class-about-page.php:393
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+"لطفا مستندات کامل ما را برای چگونگی سفارشی سازی و استفاده از قالب بررسی "
+"نمائید."
+
+#: classes/class-about-page.php:443
+msgid "Plugin Image"
+msgstr "عکس افزونه"
+
+#: classes/class-about-page.php:468 footer.php:116
+msgid "By "
+msgstr "توسط"
+
+#: classes/class-about-page.php:488
+msgid "Setting"
+msgstr "تنظیمات"
+
+#: classes/class-about-page.php:586
+msgid "Getting Started"
+msgstr "اکنون شروع کنید"
+
+#: classes/class-about-page.php:587
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: classes/class-about-page.php:588
+msgid "Recommended Plugins"
+msgstr "افزونه های پیشنهادی"
+
+#: classes/class-starter-plugins.php:41 classes/class-starter-plugins.php:51
+#: functions.php:211
+msgid "Deactivate"
+msgstr "غیرفعال کردن"
+
+#: classes/class-starter-plugins.php:55
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: classes/class-starter-plugins.php:61
+msgid "Install & Active"
+msgstr "نصب و فعال"
+
+#: classes/class-starter-plugins.php:139
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "با عرض پوزش ، شما مجاز به نصب پلاگین در این سایت نیستید."
+
+#: classes/class-starter-plugins.php:145
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+"خطا - تأیید عدم استفاده از آن امکان پذیر نیست ، لطفاً دوباره امتحان کنید."
+
+#: classes/class-starter-plugins.php:204
+msgid "Deactivated"
+msgstr "غیرفعال شده"
+
+#: classes/class-starter-plugins.php:213
+msgid "Activated"
+msgstr "فعال شده"
+
+#: classes/class-starter-plugins.php:243
+msgid "Installed & Activated"
+msgstr "نصب و فعال"
+
+#: classes/class-starter-plugins.php:252 classes/class-starter-plugins.php:261
+msgid "Failed"
+msgstr "ناموفق"
+
+#: classes/class-walker-page.php:70
+#, php-format
+msgid "#%d (no title)"
+msgstr "#%d (بدون عنوان)"
+
+#: classes/class-walker-page.php:107 inc/custom-functions.php:414
+msgid "Show sub menu"
+msgstr "نمایش زیر منو"
+
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "یک نظر برای &ldquo;%1$s&rdquo;"
+
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه برای &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s دیدگاه برای &ldquo;%2$s&rdquo;"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "نظرات بسته شده است."
+
+#: footer.php:113
+msgid "Copyright "
+msgstr "کپی رایت"
+
+#: footer.php:116
+msgid "Theme: "
+msgstr "تم:"
+
+#: footer.php:116
+msgid "ThemeInWP"
+msgstr ""
+
+#: footer.php:116
+msgid "ThemeInWP. "
+msgstr ""
+
+#: footer.php:117
+msgid "Powered by "
+msgstr ""
+
+#: footer.php:117
+msgid "WordPress"
+msgstr "وردپرس"
+
+#: footer.php:117
+msgid "WordPress."
+msgstr "وردپرس."
+
+#: functions.php:36 template-parts/woocommerce-login.php:23
+msgid "Login"
+msgstr "ورود"
+
+#: functions.php:41
+msgid "Wishlist"
+msgstr "علاقه مندی"
+
+#: functions.php:65
+msgid "Primary Menu"
+msgstr "منوی اولیه"
+
+#: functions.php:66
+msgid "Footer Menu"
+msgstr "منوی پاورقی"
+
+#: functions.php:67
+msgid "Social Menu"
+msgstr "منوی شبکه اجتماعی"
+
+#: functions.php:180
+msgid "Load More"
+msgstr "ادامه مطلب"
+
+#: functions.php:181
+msgid "No More Posts"
+msgstr "پست دیگری وجود ندارد"
+
+#: functions.php:182
+msgid "Loading..."
+msgstr "بارگذاری..."
+
+#: functions.php:210 inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "فعال سازی"
+
+#: functions.php:234 inc/customizer/home/home-content.php:14
+#: inc/customizer/sanitize.php:106
+msgid "Slide Banner Block"
+msgstr "اسلاید بنر بلوک"
+
+#: functions.php:235 inc/customizer/home/home-content.php:15
+#: inc/customizer/sanitize.php:107
+msgid "Product Category Block"
+msgstr "بلوک دسته بندی محصولات"
+
+#: functions.php:236 inc/customizer/home/home-content.php:16
+#: inc/customizer/sanitize.php:108
+msgid "Tab Block 1"
+msgstr "برگه بلوک 1"
+
+#: functions.php:237 inc/customizer/home/home-content.php:17
+#: inc/customizer/sanitize.php:109
+msgid "Carousel Block"
+msgstr "بلوک چرخ فلک"
+
+#: functions.php:238 inc/customizer/home/home-content.php:18
+#: inc/customizer/sanitize.php:110
+msgid "Tab Block 2"
+msgstr "برگه بلوک 2"
+
+#: functions.php:239
+msgid "Call To Action"
+msgstr "بخش تبلیغاتی"
+
+#: functions.php:240 inc/customizer/home/home-content.php:20
+#: inc/customizer/sanitize.php:112
+msgid "Best Deal Slide"
+msgstr "بهترین اسلاید معاملات"
+
+#: functions.php:241 inc/customizer/home/home-content.php:22
+#: inc/customizer/sanitize.php:114
+msgid "Ajax Infinity Load Blog Block"
+msgstr "بلوک بارگذاری بلاک Infinity Ajax"
+
+#: functions.php:242
+msgid "Testimonial"
+msgstr "گواهی نامه"
+
+#: functions.php:243 inc/customizer/home/home-content.php:24
+#: inc/customizer/sanitize.php:116
+msgid "Featured Posts Block"
+msgstr "بلوک ارسالهای ویژه"
+
+#: functions.php:244
+msgid "Client"
+msgstr "مشتری"
+
+#: functions.php:245 inc/customizer/home/home-content.php:28
+#: inc/customizer/sanitize.php:120
+msgid "Info Block"
+msgstr "اطلاعات بلوک"
+
+#: functions.php:246
+msgid "Advertisement Block"
+msgstr "بلوک تبلیغات"
+
+#: functions.php:247 inc/customizer/home/home-content.php:29
+#: inc/customizer/sanitize.php:121
+msgid "Lead Image Block"
+msgstr "بلوک تصویر Lead"
+
+#: functions.php:248 inc/customizer/home/home-content.php:99
+msgid "New Section"
+msgstr "بخش جدید"
+
+#: functions.php:249 inc/widgets/widget-base-class.php:279
+msgid "Choose Image"
+msgstr "انتخاب تصویر"
+
+#: functions.php:250
+msgid "Select"
+msgstr "انتخاب کنید"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "رد شدن از محتوا"
+
+#: inc/advance-product-search.php:21
+msgid "All Category"
+msgstr "همه دسته ها"
+
+#: inc/advance-product-search.php:42
+msgid "I'm searching for..."
+msgstr "جستجو ..."
+
+#: inc/bottom-header.php:45 template-parts/header/offcanvas-menu.php:29
+msgid "Horizontal"
+msgstr "افقی"
+
+#: inc/bottom-header.php:89 inc/woocommerce-login.php:83
+msgid "Log in"
+msgstr "وارد شدن"
+
+#: inc/bottom-header.php:92 inc/woocommerce-login.php:43
+#: template-parts/woocommerce-login.php:28
+msgid "Register"
+msgstr "ثبت نام"
+
+#: inc/bottom-header.php:98
+msgid "My Account"
+msgstr "اکانت من"
+
+#: inc/breadcrumbs.php:308
+msgid "Browse:"
+msgstr "مرور کردن:"
+
+#: inc/breadcrumbs.php:309
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "بردکرامب"
+
+#: inc/breadcrumbs.php:310
+msgid "Home"
+msgstr "خانه"
+
+#: inc/breadcrumbs.php:311
+msgid "404 Not Found"
+msgstr "ارور 404 صفحه مورد نطر یافت نشد"
+
+#: inc/breadcrumbs.php:312
+msgid "Archives"
+msgstr "بایگانی"
+
+#: inc/breadcrumbs.php:314
+#, php-format
+msgid "Search results for: %s"
+msgstr "سسینتایج جستجو برای: %s"
+
+#: inc/breadcrumbs.php:316
+#, php-format
+msgid "Page %s"
+msgstr "صفحه %s"
+
+#: inc/breadcrumbs.php:318
+#, php-format
+msgid "Comment Page %s"
+msgstr "صفحه نظر %s"
+
+#: inc/breadcrumbs.php:320
+#, php-format
+msgid "Minute %s"
+msgstr "%s دقیقه"
+
+#: inc/breadcrumbs.php:322
+#, php-format
+msgid "Week %s"
+msgstr "%s هفته"
+
+#: inc/breadcrumbs.php:782
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: inc/breadcrumbs.php:799
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs.php:816
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs.php:832 inc/breadcrumbs.php:861 inc/breadcrumbs.php:888
+#: inc/breadcrumbs.php:915 inc/breadcrumbs.php:1255
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs.php:833 inc/breadcrumbs.php:889 inc/breadcrumbs.php:1259
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs.php:834 inc/breadcrumbs.php:1263
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs.php:862
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/custom-functions.php:26
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/custom-functions.php:56 inc/custom-functions.php:87
+#: inc/widgets/widget-base-class.php:495
+msgid "--Select Category--"
+msgstr "--دسته را انتخاب کنید--"
+
+#: inc/custom-functions.php:256
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای %s"
+
+#: inc/custom-functions.php:323
+msgid "--Select Page--"
+msgstr "- صفحه را انتخاب کنید--"
+
+#: inc/custom-functions.php:347
+msgid "--Select Product--"
+msgstr "- انتخاب محصول -"
+
+#: inc/custom-functions.php:559 template-parts/content-page.php:19
+#: template-parts/content.php:70 template-parts/content.php:107
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: inc/customizer/custom-control.php:64
+msgid "Click hold and drag to re-order."
+msgstr "برای سفارش مجدد ، نگه داشتن و کشیدن را کلیک کنید."
+
+#: inc/customizer/custom-control.php:68
+msgid "Click to expand settings."
+msgstr "برای بزرگ کردن تنظیمات کلیک کنید."
+
+#: inc/customizer/custom-control.php:338
+msgid "No image selected"
+msgstr "عکسی انتخاب نشده است"
+
+#: inc/customizer/custom-control.php:344
+msgid "Remove"
+msgstr "حذف"
+
+#: inc/customizer/custom-control.php:345 inc/widgets/widget-base-class.php:279
+msgid "Select Image"
+msgstr "انتخاب تصویر"
+
+#: inc/customizer/custom-control.php:362
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/customizer/custom-control.php:363
+msgid "Close"
+msgstr "بستن"
+
+#: inc/customizer/customizer.php:74
+msgid "eCommerce Prime Pro"
+msgstr "نسخه پرو قالب"
+
+#: inc/customizer/customizer.php:75
+msgid "Upgrade To Pro"
+msgstr "ارتقا به نسخه پرو"
+
+#: inc/customizer/default.php:29
+msgid "Featured Posts"
+msgstr "پست های ویژه"
+
+#: inc/customizer/default.php:46 inc/customizer/default.php:47
+#: inc/customizer/default.php:48
+msgid "Buy Now"
+msgstr "هم اکنون خریداری کنید"
+
+#: inc/customizer/default.php:66
+msgid "Featured Categories"
+msgstr "دسته های ویژه"
+
+#: inc/customizer/default.php:72
+msgid "Vertical Tab"
+msgstr "برگه عمودی"
+
+#: inc/customizer/default.php:89
+msgid "Carousel Posts"
+msgstr "پست های چرخ فلک"
+
+#: inc/customizer/default.php:97
+msgid "Horizontal Tab"
+msgstr "برگه افقی"
+
+#: inc/customizer/default.php:115 inc/customizer/default.php:251
+msgid "Signup Now"
+msgstr "اکنون ثبت نام کن"
+
+#: inc/customizer/default.php:128
+msgid "Trending Hot Deals"
+msgstr "معاملات پرطرفدار"
+
+#: inc/customizer/default.php:129
+msgid "Best Selling Items"
+msgstr "آیتم های پرفروش"
+
+#: inc/customizer/default.php:151
+msgid "Latest News"
+msgstr "آخرین اخبار"
+
+#: inc/customizer/default.php:165
+msgid "Kind words from our Clients"
+msgstr "کلمات مهربانانه از مشتریان ما"
+
+#: inc/customizer/default.php:223 inc/customizer/default.php:265
+msgid "Sign Up For Our Newsletter"
+msgstr "برای دریافت خبرنامه ما ثبت نام کنید"
+
+#: inc/customizer/default.php:224 inc/customizer/default.php:266
+msgid "Subscribe our newsletter and get discount 20% Off"
+msgstr "خبرنامه ما مشترک شوید و 20٪ تخفیف بگیرید"
+
+#: inc/customizer/default.php:243
+msgid "Shop By Categories"
+msgstr "بر اساس دسته بندی ها خرید کنید"
+
+#: inc/customizer/default.php:244
+msgid "Site Loading"
+msgstr "در حال بارگیری سایت"
+
+#: inc/customizer/default.php:245
+msgid "Learn More"
+msgstr "ادامه مطلب"
+
+#: inc/customizer/default.php:255
+msgid "Related Post"
+msgstr "پست مرتبط"
+
+#: inc/customizer/default.php:264
+msgid "Copyright All Rights Reserved."
+msgstr "تمامی حقوق محفوظ است"
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "تنظیمات پاورقی"
+
+#: inc/customizer/footer.php:32
+msgid "Enable Scroll To Top Button"
+msgstr "دکمه پیمایش به بالا را فعال کنید"
+
+#: inc/customizer/footer.php:48
+msgid "Top Footer Column Layout"
+msgstr "طرح ستون بالا و پایین صفحه"
+
+#: inc/customizer/footer.php:52
+msgid "One Column"
+msgstr "یک ستون"
+
+#: inc/customizer/footer.php:53
+msgid "Two Column"
+msgstr "دو ستون"
+
+#: inc/customizer/footer.php:54
+msgid "Three Column"
+msgstr "سه ستون"
+
+#: inc/customizer/footer.php:69
+msgid "Footer Copyright Text"
+msgstr "متن کپی رایت فوتر"
+
+#: inc/customizer/header-media.php:20
+msgid "Banner Text"
+msgstr "متن بنر"
+
+#: inc/customizer/header-media.php:36
+msgid "Banner Butten Label"
+msgstr "برچسب دکمه بنر"
+
+#: inc/customizer/header-media.php:52
+msgid "Banner Button Link"
+msgstr "لینک دکمه بنر"
+
+#: inc/customizer/header.php:14
+msgid "Header Settings"
+msgstr "تنظیمات هدر"
+
+#: inc/customizer/header.php:32
+msgid "Header Advertise Image"
+msgstr "تصویر تبلیغات هدر"
+
+#: inc/customizer/header.php:48
+msgid "Header Advertise Image Link"
+msgstr "لینک پیوند تصویر هدر"
+
+#: inc/customizer/header.php:64
+msgid "Currency Switcher Shortcode"
+msgstr "کد کوتاه سوییچر ارز"
+
+#: inc/customizer/header.php:65
+msgid ""
+"If you want to enable this feature please install the recommended plugin for "
+"currency switcher and paste \"[woocs]\" shortcode in below input field. "
+msgstr ""
+"اگر می خواهید این ویژگی را فعال کنید لطفاً افزونه پیشنهادی را برای سوئیچ ارز "
+"نصب کنید و کد کوتاه \"[woocs]\" را در قسمت زیر وارد کنید."
+
+#: inc/customizer/header.php:81
+msgid "Enable Cart Icon"
+msgstr "نماد سبد خرید را فعال کنید"
+
+#: inc/customizer/header.php:97
+msgid "Enable Product Category"
+msgstr "دسته بندی محصول را فعال کنید"
+
+#: inc/customizer/header.php:113
+msgid "Product Category Title"
+msgstr "عنوان دسته بندی محصولات"
+
+#: inc/customizer/header.php:129
+msgid "Header Product Category 1"
+msgstr "هدر دسته بندی محصولات 1"
+
+#: inc/customizer/header.php:146
+msgid "Header Product Category 2"
+msgstr "هدر دسته بندی محصولات 2"
+
+#: inc/customizer/header.php:163
+msgid "Header Product Category 3"
+msgstr "هدر دسته بندی محصولات 3"
+
+#: inc/customizer/header.php:180
+msgid "Header Product Category 4"
+msgstr "هدر دسته بندی محصولات 4"
+
+#: inc/customizer/header.php:197
+msgid "Header Product Category 5"
+msgstr "هدر دسته بندی محصولات 5"
+
+#: inc/customizer/header.php:214
+msgid "Header Product Category 6"
+msgstr "هدر دسته بندی محصولات 6"
+
+#: inc/customizer/header.php:231
+msgid "Header Product Category 7"
+msgstr "هدر دسته بندی محصولات 7"
+
+#: inc/customizer/header.php:248
+msgid "Header Product Category 8"
+msgstr "هدر دسته بندی محصولات 8"
+
+#: inc/customizer/header.php:265
+msgid "Header Product Category 9"
+msgstr "هدر دسته بندی محصولات 9"
+
+#: inc/customizer/header.php:282
+msgid "Header Product Category 10"
+msgstr "هدر دسته بندی محصولات 10"
+
+#: inc/customizer/header.php:299
+msgid "Enable Header Search"
+msgstr "بخش جستجو در هدر را فعال کنید"
+
+#: inc/customizer/header.php:315
+msgid "Enable Header Login/Register"
+msgstr "ورود / ثبت نام هدر را فعال کنید"
+
+#: inc/customizer/header.php:331
+msgid "Enable Header Wishlist"
+msgstr "لیست دلخواه هدر را فعال کنید"
+
+#: inc/customizer/header.php:347
+msgid "Login Page Link"
+msgstr "لینک صفحه ورود به سیستم"
+
+#: inc/customizer/header.php:363
+msgid "Wishlist Page Link"
+msgstr "پیوند صفحه لیست علاقه مندی ها"
+
+#: inc/customizer/home/home-content.php:19 inc/customizer/sanitize.php:111
+msgid "Call To Action Block"
+msgstr "بخش تبلیغاتی"
+
+#: inc/customizer/home/home-content.php:21 inc/customizer/sanitize.php:113
+msgid "Latest Blog Block"
+msgstr "بلوک وبلاگ"
+
+#: inc/customizer/home/home-content.php:23 inc/customizer/sanitize.php:115
+msgid "Testimonial Block"
+msgstr "بلوک گواهی"
+
+#: inc/customizer/home/home-content.php:25 inc/customizer/sanitize.php:117
+msgid "Client Block"
+msgstr "بلوک مشتری"
+
+#: inc/customizer/home/home-content.php:26 inc/customizer/sanitize.php:118
+msgid "Advertise Area Block"
+msgstr "بلوک منطقه تبلیغات"
+
+#: inc/customizer/home/home-content.php:27 inc/customizer/sanitize.php:119
+msgid "Subscribe Block 1"
+msgstr "بخش میل چمپ"
+
+#: inc/customizer/home/home-content.php:33 inc/customizer/layout.php:34
+#: inc/customizer/woocommerce.php:34
+msgid "Right Sidebar"
+msgstr "سایدبار راست"
+
+#: inc/customizer/home/home-content.php:34 inc/customizer/layout.php:35
+#: inc/customizer/woocommerce.php:35
+msgid "Left Sidebar"
+msgstr "سایدبار چپ"
+
+#: inc/customizer/home/home-content.php:35 inc/customizer/layout.php:36
+#: inc/customizer/woocommerce.php:36
+msgid "No Sidebar"
+msgstr "سایدبار وجود ندارد"
+
+#: inc/customizer/home/home-content.php:38
+msgid "Single Slide"
+msgstr "اسلاید تک"
+
+#: inc/customizer/home/home-content.php:39
+msgid "Carousel Slide"
+msgstr "اسلاید چرخ فلک"
+
+#: inc/customizer/home/home-content.php:42 inc/widgets/product-lists.php:63
+msgid "Latest Product"
+msgstr "آخرین محصول"
+
+#: inc/customizer/home/home-content.php:43 inc/home/tab-block-1.php:122
+#: inc/home/tab-block-2.php:131 inc/widgets/product-lists.php:64
+#: inc/widgets/products-tab.php:82 inc/widgets/products-tab.php:154
+msgid "Best Sellers"
+msgstr "پرفروش ها"
+
+#: inc/customizer/home/home-content.php:46
+msgid "Product Review"
+msgstr "بررسی محصول"
+
+#: inc/customizer/home/home-content.php:47
+#: inc/customizer/home/home-content.php:67
+#: inc/customizer/home/home-content.php:254
+msgid "Post Category"
+msgstr "دسته پست"
+
+#: inc/customizer/home/home-content.php:48
+msgid "Pages"
+msgstr "صفحات"
+
+#: inc/customizer/home/home-content.php:51
+msgid "Grid Layout"
+msgstr "طرح شبکه"
+
+#: inc/customizer/home/home-content.php:52
+msgid "Full Width Layout"
+msgstr "چیدمان کامل عرض"
+
+#: inc/customizer/home/home-content.php:56
+#: inc/customizer/home/home-content.php:63
+#: inc/customizer/home/home-content.php:77
+msgid "Page"
+msgstr "صفحه"
+
+#: inc/customizer/home/home-content.php:57
+msgid "Custom Fields"
+msgstr "فیلدهای سفارشی"
+
+#: inc/customizer/home/home-content.php:61
+#: inc/customizer/home/home-content.php:76
+msgid "Category"
+msgstr "دسته بندی"
+
+#: inc/customizer/home/home-content.php:62
+msgid "Products"
+msgstr "محصولات"
+
+#: inc/customizer/home/home-content.php:66
+msgid "Product Products"
+msgstr "محصولات"
+
+#: inc/customizer/home/home-content.php:70
+msgid "Small"
+msgstr "کوچک"
+
+#: inc/customizer/home/home-content.php:71 inc/widgets/products-tab.php:55
+#: inc/widgets/tab-posts.php:67
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/customizer/home/home-content.php:72 inc/widgets/products-tab.php:56
+#: inc/widgets/tab-posts.php:68
+msgid "Large"
+msgstr "بزرگ"
+
+#: inc/customizer/home/home-content.php:83
+msgid "Homepage Content"
+msgstr "محتوای صفحه اصلی"
+
+#: inc/customizer/home/home-content.php:100
+msgid "Add New Section"
+msgstr "افزودن بخش جدید"
+
+#: inc/customizer/home/home-content.php:105
+msgid "Enable Section"
+msgstr "بخش را فعال کنید"
+
+#: inc/customizer/home/home-content.php:110
+msgid "Enable Subscribe Section on All Page"
+msgstr "بخش اشتراک را در همه صفحه فعال کنید"
+
+#: inc/customizer/home/home-content.php:115
+msgid "Section Type"
+msgstr "نوع بخش"
+
+#: inc/customizer/home/home-content.php:121
+msgid "Enable Slider"
+msgstr "فعال کردن اسلایدر"
+
+#: inc/customizer/home/home-content.php:126
+msgid "Slider Category"
+msgstr "دسته اسلایدر"
+
+#: inc/customizer/home/home-content.php:132 inc/customizer/single.php:65
+msgid "Section Title"
+msgstr "بخش عنوان"
+
+#: inc/customizer/home/home-content.php:137
+msgid "Featured Posts Type"
+msgstr "نوع پیام های ویژه"
+
+#: inc/customizer/home/home-content.php:143
+msgid "Featured Category One"
+msgstr "دسته بندی ویژه 1"
+
+#: inc/customizer/home/home-content.php:149
+msgid "Featured Slider Category"
+msgstr "دسته اسلایدر ویژه"
+
+#: inc/customizer/home/home-content.php:155
+msgid "Featured Category Two"
+msgstr "دسته بندی ویژه 2"
+
+#: inc/customizer/home/home-content.php:161
+msgid "Product Category One"
+msgstr "دسته بندی محصولات یک"
+
+#: inc/customizer/home/home-content.php:167
+msgid "Product Slider Category"
+msgstr "دسته اسلایدر محصول"
+
+#: inc/customizer/home/home-content.php:173
+#: inc/customizer/home/home-content.php:417
+msgid "Product Category Two"
+msgstr "دسته بندی محصولات دو"
+
+#: inc/customizer/home/home-content.php:179
+msgid "Section Description"
+msgstr "توضیحات بخش"
+
+#: inc/customizer/home/home-content.php:184
+msgid "Mailchimp Shortcode"
+msgstr "کد کوتاه میل چمپ"
+
+#: inc/customizer/home/home-content.php:189
+msgid "Quick Info Page 1"
+msgstr "اطلاعات سریع صفحه 1"
+
+#: inc/customizer/home/home-content.php:195
+msgid "Quick Info Page 2"
+msgstr "اطلاعات سریع صفحه 2"
+
+#: inc/customizer/home/home-content.php:201
+msgid "Quick Info Page 3"
+msgstr "اطلاعات سریع صفحه 3"
+
+#: inc/customizer/home/home-content.php:207
+msgid "Quick Info Page 4"
+msgstr "اطلاعات سریع صفحه 4"
+
+#: inc/customizer/home/home-content.php:213
+msgid "Slider Banner Type"
+msgstr "نوع بنر اسلایدر"
+
+#: inc/customizer/home/home-content.php:219
+msgid "Enable Overlay"
+msgstr "Overlay را فعال کنید"
+
+#: inc/customizer/home/home-content.php:224
+msgid "Enable Fixed Background"
+msgstr "پس زمینه ثابت را فعال کنید"
+
+#: inc/customizer/home/home-content.php:229
+msgid "Slider Banner Height"
+msgstr "ارتفاع بنر اسلایدر"
+
+#: inc/customizer/home/home-content.php:235
+msgid "Client Content Type"
+msgstr "نوع محتوای مشتری"
+
+#: inc/customizer/home/home-content.php:241
+msgid "Testimonial Layout"
+msgstr "طرح گواهی نامه"
+
+#: inc/customizer/home/home-content.php:247
+msgid "Testimonial Type"
+msgstr "نوع گواهی نامه"
+
+#: inc/customizer/home/home-content.php:260
+msgid "Call To Action Method"
+msgstr "متد تبلیغات"
+
+#: inc/customizer/home/home-content.php:266
+msgid "Page 1"
+msgstr "صفحه 1"
+
+#: inc/customizer/home/home-content.php:272
+msgid "Link 1"
+msgstr "لینک 1"
+
+#: inc/customizer/home/home-content.php:277
+msgid "Button Label 1"
+msgstr "برچسب دکمه 1"
+
+#: inc/customizer/home/home-content.php:282
+msgid "Page 2"
+msgstr "صفحه 2"
+
+#: inc/customizer/home/home-content.php:288
+msgid "Link 2"
+msgstr "لینک 2"
+
+#: inc/customizer/home/home-content.php:293
+msgid "Button Label 2"
+msgstr "برچسب دکمه 2"
+
+#: inc/customizer/home/home-content.php:298
+msgid "Page 3"
+msgstr "صفحه 3"
+
+#: inc/customizer/home/home-content.php:304
+msgid "Link 3"
+msgstr "لینک 3"
+
+#: inc/customizer/home/home-content.php:309
+msgid "Button Label 3"
+msgstr "برچسب دکمه 3"
+
+#: inc/customizer/home/home-content.php:314
+msgid "Page 4"
+msgstr "صفحه 4"
+
+#: inc/customizer/home/home-content.php:320
+msgid "Page 5"
+msgstr "صفحه 5"
+
+#: inc/customizer/home/home-content.php:326
+msgid "Page 6"
+msgstr "صفحه 6"
+
+#: inc/customizer/home/home-content.php:332
+msgid "Page 7"
+msgstr "صفحه 7"
+
+#: inc/customizer/home/home-content.php:338
+msgid "Page 8"
+msgstr "صفحه 8"
+
+#: inc/customizer/home/home-content.php:344
+msgid "Page 9"
+msgstr "صفحه 9"
+
+#: inc/customizer/home/home-content.php:350
+msgid "Page 10"
+msgstr "صفحه 10"
+
+#: inc/customizer/home/home-content.php:356
+msgid "Product 1"
+msgstr "محصول 1"
+
+#: inc/customizer/home/home-content.php:362
+msgid "Product 2"
+msgstr "محصول 2"
+
+#: inc/customizer/home/home-content.php:368
+msgid "Product 3"
+msgstr "محصول 3"
+
+#: inc/customizer/home/home-content.php:374
+msgid "Show Relevant Category Only"
+msgstr "نمایش فقط دسته مرتبط"
+
+#: inc/customizer/home/home-content.php:379
+msgid "Enable Excerpt Content"
+msgstr "محتوای گزیده را فعال کنید"
+
+#: inc/customizer/home/home-content.php:384 inc/home/advertise.php:21
+msgid "Advertise Image"
+msgstr "تصویر را تبلیغ کنید"
+
+#: inc/customizer/home/home-content.php:385
+msgid "Recommended Image Size is 970x250 PX."
+msgstr "اندازه تصویر توصیه شده 970x250 PX است."
+
+#: inc/customizer/home/home-content.php:390
+msgid "Advertise Image Link"
+msgstr "پیوند تصویر را تبلیغ کنید"
+
+#: inc/customizer/home/home-content.php:395
+msgid "Product Category"
+msgstr "دسته بندی محصولات"
+
+#: inc/customizer/home/home-content.php:401
+msgid "Enable Review Comment Content"
+msgstr "مرور محتوای نظرات را فعال کنید"
+
+#: inc/customizer/home/home-content.php:406
+msgid "Best Selling Section Title"
+msgstr "عنوان بهترین بخش فروش"
+
+#: inc/customizer/home/home-content.php:411
+msgid "Product Sorting"
+msgstr "مرتب سازی محصول"
+
+#: inc/customizer/home/home-content.php:423
+msgid "Product Category Three"
+msgstr "دسته بندی محصولات سه"
+
+#: inc/customizer/home/home-content.php:429
+msgid "Product Category Four"
+msgstr "دسته بندی محصولات چهار"
+
+#: inc/customizer/home/home-content.php:435
+msgid "Product Category Five"
+msgstr "دسته بندی محصولات پنج"
+
+#: inc/customizer/home/home-content.php:441
+msgid "Enable Arrows"
+msgstr "پیکان ها را فعال کنید"
+
+#: inc/customizer/home/home-content.php:446
+msgid "Enable Dots"
+msgstr "نقاط را فعال کنید"
+
+#: inc/customizer/home/home-content.php:451
+msgid "Enable Autoplay"
+msgstr "فعال کردن پخش خودکار"
+
+#: inc/customizer/home/home-content.php:456 inc/single/metabox.php:109
+msgid "Sidebar Layout"
+msgstr "طرح سایدبار کناری"
+
+#: inc/customizer/home/home-content.php:462
+msgid "Latest Posts Layout"
+msgstr "طرح آخرین ارسال ها"
+
+#: inc/customizer/home/home-content.php:468
+msgid "Banner Image 1"
+msgstr "تصویر بنر 1"
+
+#: inc/customizer/home/home-content.php:469
+#: inc/customizer/home/home-content.php:480
+#: inc/customizer/home/home-content.php:491
+#: inc/customizer/home/home-content.php:522
+#: inc/customizer/home/home-content.php:564
+#: inc/customizer/home/home-content.php:580
+#: inc/customizer/home/home-content.php:596
+#: inc/customizer/home/home-content.php:612
+#: inc/customizer/home/home-content.php:628
+msgid "Recommended Image Size is 270x630 PX."
+msgstr "سایز توصیه شده 270x630 PX."
+
+#: inc/customizer/home/home-content.php:474
+msgid "Banner Image Link 1"
+msgstr "لینک تصویر بنر 1"
+
+#: inc/customizer/home/home-content.php:479
+msgid "Banner Image 2"
+msgstr "تصویر بنر 2"
+
+#: inc/customizer/home/home-content.php:485
+msgid "Banner Image Link 2"
+msgstr "لینک تصویر بنر 2"
+
+#: inc/customizer/home/home-content.php:490
+msgid "Banner Image 3"
+msgstr "تصویر بنر 3"
+
+#: inc/customizer/home/home-content.php:496
+msgid "Banner Image Link 3"
+msgstr "لینک تصویر بنر 3"
+
+#: inc/customizer/home/home-content.php:501
+msgid "CTA Title"
+msgstr "عنوان بخش تبلیغات"
+
+#: inc/customizer/home/home-content.php:506
+msgid "CTA Sub Title"
+msgstr "عنوان دوم بخش تبیلغات"
+
+#: inc/customizer/home/home-content.php:511
+msgid "CTA Button Label"
+msgstr "برچسب دکمه تبلیغات"
+
+#: inc/customizer/home/home-content.php:516
+msgid "CTA Button Link"
+msgstr "لینک دکمه تبلیغات"
+
+#: inc/customizer/home/home-content.php:521
+msgid "CTA Background"
+msgstr "پس زمینه تبلیغات"
+
+#: inc/customizer/home/home-content.php:527
+msgid "Lead Banner type"
+msgstr "نوع آگهی بنر"
+
+#: inc/customizer/home/home-content.php:533
+msgid "Lead Banner Page 1"
+msgstr "آگهی صفحه 1"
+
+#: inc/customizer/home/home-content.php:539
+msgid "Lead Banner Page 2"
+msgstr "آگهی صفحه 2"
+
+#: inc/customizer/home/home-content.php:545
+msgid "Lead Banner Page 3"
+msgstr "آگهی صفحه 3"
+
+#: inc/customizer/home/home-content.php:551
+msgid "Lead Banner Page 4"
+msgstr "آگهی صفحه 4"
+
+#: inc/customizer/home/home-content.php:557
+msgid "Lead Banner Page 5"
+msgstr "آگهی صفحه 5"
+
+#: inc/customizer/home/home-content.php:563
+msgid "Lead Image 1"
+msgstr "عکس 1"
+
+#: inc/customizer/home/home-content.php:569
+msgid "Lead Image Title 1"
+msgstr "عنوان تصویر 1"
+
+#: inc/customizer/home/home-content.php:574
+msgid "Lead Image 1 Link"
+msgstr "پیوند تصویر 1"
+
+#: inc/customizer/home/home-content.php:579
+msgid "Lead Image 2"
+msgstr "عکس 2"
+
+#: inc/customizer/home/home-content.php:585
+msgid "Lead Image Title 2"
+msgstr "عنوان عکس 2"
+
+#: inc/customizer/home/home-content.php:590
+msgid "Lead Image 2 Link"
+msgstr "لینک عکس 2"
+
+#: inc/customizer/home/home-content.php:595
+msgid "Lead Image 3"
+msgstr "عکس 3"
+
+#: inc/customizer/home/home-content.php:601
+msgid "Lead Image Title 3"
+msgstr "عنوان عکس 3"
+
+#: inc/customizer/home/home-content.php:606
+msgid "Lead Image 3 Link"
+msgstr "لینک عکس 3"
+
+#: inc/customizer/home/home-content.php:611
+msgid "Lead Image 4"
+msgstr "عکس 4"
+
+#: inc/customizer/home/home-content.php:617
+msgid "Lead Image Title 4"
+msgstr "عنوان عکس 4"
+
+#: inc/customizer/home/home-content.php:622
+msgid "Lead Image 4 Link"
+msgstr "لینک عکس 4"
+
+#: inc/customizer/home/home-content.php:627
+msgid "Lead Image 5"
+msgstr "عکس 5"
+
+#: inc/customizer/home/home-content.php:633
+msgid "Lead Image Title 5"
+msgstr "عنوان عکس 5"
+
+#: inc/customizer/home/home-content.php:638
+msgid "Lead Image 5 Link"
+msgstr "لینک عکس 5"
+
+#: inc/customizer/home/home-content.php:662
+msgid "Info"
+msgstr "اطلاعات"
+
+#: inc/customizer/layout.php:13 inc/single/metabox.php:96
+msgid "Layout Settings"
+msgstr "تنظیمات طرح بندی"
+
+#: inc/customizer/layout.php:30
+msgid "Global Sidebar Layout"
+msgstr "طرح کلی سایدبار"
+
+#: inc/customizer/layout.php:57
+msgid "Archive Layout"
+msgstr "طرح های آرشیو"
+
+#: inc/customizer/single.php:14
+msgid "Single Post Settings"
+msgstr "تنظیمات پست تک"
+
+#: inc/customizer/single.php:31
+msgid "Disable Featured Image"
+msgstr "غیرفعال کردن تصویر ویژه"
+
+#: inc/customizer/single.php:48
+msgid "Enable Related Posts"
+msgstr "پست های مرتبط را فعال کنید"
+
+#: inc/customizer/single.php:82
+msgid "Enable Author Bio"
+msgstr "فعال کردن بیو نویسنده"
+
+#: inc/customizer/theme-option.php:21
+msgid "Breadcrumb Settings"
+msgstr "تنظیمات بردکرامب"
+
+#: inc/customizer/theme-option.php:38
+msgid "Breadcrumb Layout"
+msgstr "طرح بردکرامب"
+
+#: inc/customizer/theme-option.php:39
+#, php-format
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin."
+msgstr "پیشرفته: به پلاگین %1$s Breadcrumb NavXT %2$s نیاز دارد."
+
+#: inc/customizer/theme-option.php:43
+msgid "Disabled"
+msgstr "غیرفعال کردن"
+
+#: inc/customizer/theme-option.php:44
+msgid "Simple"
+msgstr "ساده"
+
+#: inc/customizer/theme-option.php:45
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: inc/customizer/theme-option.php:54
+msgid "Pagination Settings"
+msgstr "تنظیمات صفحه بندی"
+
+#: inc/customizer/theme-option.php:71
+msgid "Pagination Layout"
+msgstr "طرح بندی صفحه"
+
+#: inc/customizer/theme-option.php:75
+msgid "Classic(Previous/Next)"
+msgstr "کلاسیک (قبلی / بعدی)"
+
+#: inc/customizer/theme-option.php:76
+msgid "Numeric"
+msgstr "عددی"
+
+#: inc/customizer/theme-option.php:85
+msgid "Preloader Settings"
+msgstr "تنظیمات پیش لودر"
+
+#: inc/customizer/theme-option.php:102
+msgid "Enable Preloader"
+msgstr "پیش لود سایت را فعال کنید"
+
+#: inc/customizer/theme-option.php:103
+msgid "Enable/Disable Loading Animation."
+msgstr "فعال کردن / غیرفعال کردن بارگذاری انیمیشن."
+
+#: inc/customizer/theme-option.php:119
+msgid "Preloader Text"
+msgstr "متن پیش بارگذار"
+
+#: inc/customizer/woocommerce.php:13
+msgid "Theme Settings"
+msgstr "تنظیمات پوسته"
+
+#: inc/customizer/woocommerce.php:30
+msgid "Single Product Sidebar Layout"
+msgstr "چیدمان سایدبار تک محصول"
+
+#: inc/customizer/woocommerce.php:50
+msgid "Enable After Add To Cart Popup"
+msgstr "فعال کردن پنجره باز شو پس از افزودن به سبد خرید"
+
+#: inc/header-category.php:110
+msgid " Items"
+msgstr "محصولات"
+
+#: inc/home/product-category.php:106 inc/home/product-category.php:203
+msgid "items"
+msgstr "محصولات"
+
+#: inc/home/product-category.php:117 inc/home/product-category.php:214
+msgid "sale"
+msgstr "حراج"
+
+#: inc/home/product-deal-slide.php:236
+msgid "Status:"
+msgstr "وضعیت:"
+
+#: inc/home/product-deal-slide.php:245
+msgid "Out of stock"
+msgstr "تمام شده"
+
+#: inc/home/product-deal-slide.php:249
+msgid "On backorder"
+msgstr "در backorder"
+
+#: inc/home/product-deal-slide.php:253
+msgid "In Stock"
+msgstr "در انبار"
+
+#: inc/home/product-deal-slide.php:267
+#: woocommerce/single-product-reviews.php:43
+msgid "Average Rating"
+msgstr "میانگین امتیاز"
+
+#: inc/home/product-deal-slide.php:319
+msgid "has reviewed"
+msgstr "بررسی کرده است"
+
+#: inc/home/product-deal-slide.php:321 inc/home/product-deal-slide.php:324
+msgid "Rated "
+msgstr "دارای رتبه"
+
+#: inc/home/product-deal-slide.php:321 inc/home/product-deal-slide.php:328
+msgid " out of 5"
+msgstr "از 5"
+
+#: inc/home/tab-block-1.php:119 inc/home/tab-block-2.php:122
+#: inc/widgets/products-tab.php:70 inc/widgets/products-tab.php:135
+msgid "New Arrivals"
+msgstr "محصولات جدید"
+
+#: inc/home/tab-block-1.php:126 inc/home/tab-block-2.php:138
+#: inc/widgets/product-lists.php:65 inc/widgets/products-tab.php:94
+#: inc/widgets/products-tab.php:175
+msgid "Best Deals"
+msgstr "حراجی ها"
+
+#: inc/home/testimonial.php:98 inc/home/testimonial.php:126
+msgid "Reviewer Avatar"
+msgstr "مشاهده امتیاز"
+
+#: inc/home/testimonial.php:105 inc/home/testimonial.php:109
+msgid "Rated"
+msgstr "دارای رتبه"
+
+#: inc/home/testimonial.php:105 inc/home/testimonial.php:111
+msgid "out of 5"
+msgstr "از 5"
+
+#: inc/home/testimonial.php:132
+msgid "on"
+msgstr "در"
+
+#: inc/single/metabox.php:17 inc/single/metabox.php:25
+msgid "Single Post/Page Settings"
+msgstr "تنظیمات پست / صفحه"
+
+#: inc/single/metabox.php:40
+msgid "Global image"
+msgstr "تصویر گلوبال"
+
+#: inc/single/metabox.php:45
+msgid "Enable image"
+msgstr "فعال کردن تصویر"
+
+#: inc/single/metabox.php:50
+msgid "Disable image"
+msgstr "غیرفعال کردن تصویر"
+
+#: inc/single/metabox.php:58
+msgid "Global sidebar"
+msgstr "سایدبار گلوبال"
+
+#: inc/single/metabox.php:63
+msgid "Right sidebar"
+msgstr "سایدبار راست"
+
+#: inc/single/metabox.php:68
+msgid "Left sidebar"
+msgstr "سایدبار چپ"
+
+#: inc/single/metabox.php:73
+msgid "No sidebar"
+msgstr "سایدبار موجود نیست"
+
+#: inc/single/metabox.php:133
+msgid "Image Setting"
+msgstr "تنظیم تصویر"
+
+#: inc/template-tags.php:108
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Tagged"
+msgstr "برچسب گذاری شده"
+
+#: inc/template-tags.php:125
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "کامنت بگذارید<span class=\"screen-reader-text\"> در %s</span>"
+
+#: inc/template-tags.php:144 template-parts/content-page.php:32
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ویرایش کنید <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های مورد نیاز"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "نصب افزونه: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "به روز رسانی افزونه: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "در شناسایی API افزونه اشتباهی رخ داد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "این قالب نیاز به افزونه های زیر دارد: %1$s."
+msgstr[1] "این قالب نیاز به افزونه زیر دارد: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "این قالب افزونه های زیر را توصیه می کند: %1$s."
+msgstr[1] "این قالب افزونه زیر را توصیه می کند: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"افزونه های زیر باید به آخرین نسخه به روز رسانی شوند تا حداکثر سازگاری را با "
+"این قالب داشته باشند: %1$s."
+msgstr[1] ""
+"افزونه زیر باید به آخرین نسخه به روز رسانی شود تا حداکثر سازگاری را با این "
+"قالب داشته باشد: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "به روز رسانی های موجودی که برای افزونه های زیر وجود دارد: %1$s."
+msgstr[1] "به روز رسانی در دسترس است: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های مورد نیاز در حال حاضر غیر فعال هستند: %1$s."
+msgstr[1] "افزونه مورد نیاز در حال حاضر غیر فعال است: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های توصیه شده زیر در حال حاضر غیر فعال هستند: %1$s."
+msgstr[1] "افزونه توصیه شده زیر در حال حاضر غیر فعال است: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "نصب افزونه ها را شروع کنید"
+msgstr[1] "نصب افزونه را شروع کنید"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "به روز رسانی افزونه ها را شروع کنید"
+msgstr[1] "به روز رسانی افزونه را شروع کنید"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "فعال سازی افزونه ها را شروع کنید"
+msgstr[1] "فعال سازی افزونه را شروع کنید"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت به نصب افزونه های مورد نیاز"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "بازگشت به پیشخوان"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "افزونه های زیر با موفقیت فعال شدند:"
+msgstr[1] "افزونه زیر با موفقیت فعال شد:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "هیچ اقدامی انجام نشده است. افزونه %1$s در حال حاضر فعال است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"افزونه فعال نیست. نسخه بالاتر %s برای این قالب مورد نیاز است. لطفا افزونه را "
+"به روزرسانی کنید."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "تمامی افزونه ها با موفقیت نصب و فعال شدند. %1$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "این اطلاعیه را رد کنید"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"یک یا چند افزونه ی مورد نظر یا توصیه شده برای نصب، به روز رسانی یا فعال سازی "
+"وجود دارد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای کمک به مدیر این سایت با وی تماس بگیرید."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه باید به روز شود تا با قالب شما سازگار شود."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "به روزرسانی نیاز است"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "بسته افزونه از راه دور با تغییر نام روی فایل هایش کار نمی کند."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"لطفا با نویسنده افزونه تماس بگیرید و از وی بخواهید افزونه خود را با توجه به "
+"دستورالعمل های وردپرس پکیج کند."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"بسته افزونه از راه دور شامل بیش از یک فایل است، اما فایل ها در یک پوشه پکیج "
+"نمی شوند."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "مورد نیاز"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "از قبل به حالت پکیج در آمده"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "نصب نشد"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "نصب شده اما فعال نشده است"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "به روز رسانی مورد نیاز در دسترس نیست"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "افزونه مورد نیاز"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "به روز رسانی توصیه می شود"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "تمامی <span class=\"count\">(%s)</span>"
+msgstr[1] "تمامی <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب <span class=\"count\">(%s)</span>"
+msgstr[1] "برای نصب <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "به روز رسانی در دسترس <span class=\"count\">(%s)</span>"
+msgstr[1] "به روز رسانی در دسترس <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "برای فعال سازی <span class=\"count\">(%s)</span>"
+msgstr[1] "برای فعال سازی <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناس"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "نسخه نصب شده:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "حداقل نسخه مورد نیاز:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "نسخه در دسترس:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "هیچ افزونه ای برای نصب، به روز رسانی یا فعال سازی انتخاب نشده است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "افزونه"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "منبع"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "نوع"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "نسخه"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "وضعیت"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "به روز رسانی %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "فعال سازی %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "پیام نویسنده افزونه برای ارتقاء:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "نصب"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+#: woocommerce/cart/shipping-calculator.php:84
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه ای برای نصب انتخاب نشده است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ افزونه ای برای به روز رسانی انتخاب نشده است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "هیچ افزونه ای برای فعال سازی انتخاب نشده است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "در حال حاضر هیچ افزونه ای در دسترس نیست."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه ای برای فعال شدن انتخاب نشده است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "هیچ افزونه ای در این زمان فعال نیست."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "افزونه فعال نشد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "به روز رسانی افزونه %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "هنگام نصب %1$s خطایی رخ داد: <strong>%2$s</strong>."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "نصب %1$s ناموفق بود."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"روند نصب و فعال سازی شروع شده است. این روند ممکن است در بعضی از هاست کمی طول "
+"بکشد، پس لطفا صبور باشید."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s با موفقیت نصب و فعال سازی شد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "نمایش جزئیات"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "مخفی کردن جزئیات"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "تمامی فایل های نصبی به همراه فعال سازی هایشان تکمیل شده است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعال سازی افزونه %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"روند نصب شروع شده است. این فرایند ممکن است در بعضی از هاست ها کمی طول بکشد، "
+"پس لطفا صبور باشید."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s با موفقیت نصب شد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "تمامی فایل های نصبی تکمیل شده اند."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب افزونه %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/recommended-plugins.php:63
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: inc/tgmpa/recommended-plugins.php:68
+msgid "YITH WooCommerce Wishlist"
+msgstr "افزونه ووکامرس ( علاقه مندی )"
+
+#: inc/tgmpa/recommended-plugins.php:73
+msgid "YITH WooCommerce Quick View"
+msgstr "افزونه ووکامرس (نمایش سریع)"
+
+#: inc/tgmpa/recommended-plugins.php:78
+msgid "YITH WooCommerce Compare"
+msgstr "افزونه ووکامرس (مقایسه)"
+
+#: inc/tgmpa/recommended-plugins.php:83
+msgid "Demo Import Kit"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:88
+msgid "Themeinwp Import Companion"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:93
+msgid "Mailchimp for WordPress"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:98
+msgid ""
+"WooCommerce Currency Switcher by PluginUs.NET. Woo Multi Currency and Woo "
+"Multi Pay"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:103
+msgid "Booster Extension"
+msgstr "تقویت کننده"
+
+#: inc/widgets/author.php:43
+msgid "Displays authors details in post."
+msgstr "جزئیات نویسندگان را در پست نمایش می دهد."
+
+#: inc/widgets/author.php:48 inc/widgets/category.php:50
+#: inc/widgets/product-category.php:50 inc/widgets/product-lists.php:51
+#: inc/widgets/recent-post.php:42 inc/widgets/social-link.php:49
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/widgets/author.php:53
+msgid "Widget Background Image:"
+msgstr "تصویر پس زمینه ابزارک:"
+
+#: inc/widgets/author.php:57
+msgid "Name:"
+msgstr "نام:"
+
+#: inc/widgets/author.php:62
+msgid "Description:"
+msgstr "توصیف:"
+
+#: inc/widgets/author.php:67
+msgid "Author Image:"
+msgstr "تصویر نویسنده:"
+
+#: inc/widgets/author.php:71 inc/widgets/social-link.php:54
+msgid "Facebook URL:"
+msgstr "آدرس اینترنتی فیسبوک:"
+
+#: inc/widgets/author.php:76 inc/widgets/social-link.php:59
+msgid "Twitter URL:"
+msgstr "آدرس اینترنتی تویتر:"
+
+#: inc/widgets/author.php:81 inc/widgets/social-link.php:64
+msgid "Linkedin URL:"
+msgstr "آدرس اینترنتی لینکدین:"
+
+#: inc/widgets/author.php:86 inc/widgets/social-link.php:69
+msgid "Instagram URL:"
+msgstr "آدرس اینترنتی اینستاگرام:"
+
+#: inc/widgets/author.php:92
+msgid "EP: Author Widget"
+msgstr "EP: ابزارک نویسنده"
+
+#: inc/widgets/category.php:45 inc/widgets/product-category.php:45
+msgid "Displays categories and posts."
+msgstr "دسته ها و پست ها را نمایش می دهد."
+
+#: inc/widgets/category.php:55
+msgid "Top Categories:"
+msgstr "دسته بندی های برتر:"
+
+#: inc/widgets/category.php:63 inc/widgets/product-category.php:63
+msgid "Enable Category Description:"
+msgstr "فعال کردن توضیحات دسته:"
+
+#: inc/widgets/category.php:69
+msgid "EP: Category Widget"
+msgstr "EP: ابزارک دسته بندی"
+
+#: inc/widgets/product-category.php:55
+msgid "Top Product Categories:"
+msgstr "دسته بندی محصولات برتر:"
+
+#: inc/widgets/product-category.php:69
+msgid "EP: Product Category Widget"
+msgstr "EP: ابزارک دسته بندی محصولات"
+
+#: inc/widgets/product-lists.php:45 inc/widgets/recent-post.php:37
+msgid ""
+"Displays post form selected category specific for popular post in sidebars."
+msgstr "فرم پست انتخاب شده برای پست محبوب را در ستون های کناری نمایش می دهد."
+
+#: inc/widgets/product-lists.php:56
+msgid "Product Category:"
+msgstr "دسته بندی محصولات:"
+
+#: inc/widgets/product-lists.php:60
+msgid "Product Shorting:"
+msgstr "اتصال کوتاه محصول:"
+
+#: inc/widgets/product-lists.php:69
+msgid "Number of Products:"
+msgstr "تعداد محصولات:"
+
+#: inc/widgets/product-lists.php:78
+msgid "EP: Product Lists Widget"
+msgstr "EP: ابزارک لیست محصولات"
+
+#: inc/widgets/products-tab.php:41
+msgid "Product Tabbed widget."
+msgstr "ابزارک تب دار محصولات."
+
+#: inc/widgets/products-tab.php:45 inc/widgets/tab-posts.php:57
+msgid "Enable Description:"
+msgstr "فعال کردن توضیحات:"
+
+#: inc/widgets/products-tab.php:50 inc/widgets/tab-posts.php:62
+msgid "Select Image Size Featured Post:"
+msgstr "اندازه تصویر را انتخاب کنید پست ویژه:"
+
+#: inc/widgets/products-tab.php:54 inc/widgets/tab-posts.php:66
+msgid "Thumbnail"
+msgstr "بند انگشتی"
+
+#: inc/widgets/products-tab.php:57 inc/widgets/tab-posts.php:69
+msgid "Full"
+msgstr "فول"
+
+#: inc/widgets/products-tab.php:62 inc/widgets/tab-posts.php:74
+msgid "Excerpt Length:"
+msgstr "طول چکیده:"
+
+#: inc/widgets/products-tab.php:63 inc/widgets/tab-posts.php:75
+msgid "Number of words"
+msgstr "تعداد کلمات"
+
+#: inc/widgets/products-tab.php:74 inc/widgets/products-tab.php:86
+#: inc/widgets/products-tab.php:98
+msgid "No. of Products:"
+msgstr "تعداد محصولات:"
+
+#: inc/widgets/products-tab.php:107
+msgid "EP: Tab Products Widget"
+msgstr "EP: ابزارک محصولات"
+
+#: inc/widgets/recent-post.php:47
+msgid "Select Category:"
+msgstr "دسته را انتخاب کنید:"
+
+#: inc/widgets/recent-post.php:49
+msgid "All Categories"
+msgstr "تمامی دسته بندی ها"
+
+#: inc/widgets/recent-post.php:52
+msgid "Enable Counter:"
+msgstr "فعال کردن شمارنده:"
+
+#: inc/widgets/recent-post.php:57
+msgid "Number of Posts:"
+msgstr "تعداد پست ها:"
+
+#: inc/widgets/recent-post.php:65
+msgid "EP: Recent Post Widget"
+msgstr "EP: ابزارک پست اخیر"
+
+#: inc/widgets/social-link.php:44
+msgid "Displays Social share."
+msgstr "سهم اجتماعی را نمایش می دهد."
+
+#: inc/widgets/social-link.php:74
+msgid "Pinterest URL:"
+msgstr "آدرس اینترنتی پینترست:"
+
+#: inc/widgets/social-link.php:79
+msgid "Reddit URL:"
+msgstr "آدرس اینترنتی ریدیت:"
+
+#: inc/widgets/social-link.php:84
+msgid "Skype URL:"
+msgstr "آدرس اینترنتی اسکایپ:"
+
+#: inc/widgets/social-link.php:89
+msgid "Snapchat URL:"
+msgstr "آدرس اینترنتی اسنپ چت:"
+
+#: inc/widgets/social-link.php:94
+msgid "Tumblr URL:"
+msgstr "آدرس اینترنتی تامبلر:"
+
+#: inc/widgets/social-link.php:99
+msgid "Twitch URL:"
+msgstr "آدرس اینترنتی تویچ:"
+
+#: inc/widgets/social-link.php:104
+msgid "Youtube URL:"
+msgstr "آدرس اینترنتی یوتیوب:"
+
+#: inc/widgets/social-link.php:109
+msgid "Vimeo URL:"
+msgstr "آدرس اینترنتی ویمو:"
+
+#: inc/widgets/social-link.php:114
+msgid "Whatsapp URL:"
+msgstr "آدرس اینترنتی واتس آپ:"
+
+#: inc/widgets/social-link.php:119
+msgid "WordPress URL:"
+msgstr "آدرس اینترنتی وردپرس:"
+
+#: inc/widgets/social-link.php:124
+msgid "Github URL:"
+msgstr "آدرس اینترنتی گیت هاب:"
+
+#: inc/widgets/social-link.php:129
+msgid "FourSquare URL:"
+msgstr "آدرس اینترنتی فور:"
+
+#: inc/widgets/social-link.php:134
+msgid "Dribbble URL:"
+msgstr "آدرس اینترنتی دریبل:"
+
+#: inc/widgets/social-link.php:139
+msgid "VK URL:"
+msgstr "آدرس اینترنتی ویکی:"
+
+#: inc/widgets/social-link.php:145
+msgid "EP: Social Widget"
+msgstr "EP: ابزارک اجتماعی"
+
+#: inc/widgets/tab-posts.php:41
+msgid "Tabbed widget."
+msgstr "ابزارک تب دار"
+
+#: inc/widgets/tab-posts.php:45 inc/widgets/tab-posts.php:145
+msgid "Popular"
+msgstr "محبوب"
+
+#: inc/widgets/tab-posts.php:49 inc/widgets/tab-posts.php:86
+msgid "No. of Posts:"
+msgstr "تعداد پست ها:"
+
+#: inc/widgets/tab-posts.php:82 inc/widgets/tab-posts.php:160
+msgid "Recent"
+msgstr "اخیرا"
+
+#: inc/widgets/tab-posts.php:94 inc/widgets/tab-posts.php:182
+msgid "Comments"
+msgstr "نظرات"
+
+#: inc/widgets/tab-posts.php:98
+msgid "No. of Comments:"
+msgstr "تعداد نظرات:"
+
+#: inc/widgets/tab-posts.php:107
+msgid "EP: Tab Posts Widget"
+msgstr "EP: ابزارک ارسال پست ها"
+
+#: inc/widgets/widget-base-class.php:279
+msgid "Upload"
+msgstr "آپلود"
+
+#: inc/widgets/widget-base-class.php:290
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: inc/widgets/widgets.php:19
+msgid "Sidebar"
+msgstr "سایدبار"
+
+#: inc/widgets/widgets.php:21 inc/widgets/widgets.php:31
+#: inc/widgets/widgets.php:41 inc/widgets/widgets.php:59 inc/woocommerce.php:70
+msgid "Add widgets here."
+msgstr "ابزارک ها را اینجا اضافه کنید."
+
+#: inc/widgets/widgets.php:29
+msgid "Offcanvas Widget"
+msgstr "ابزارک  Offcanvas"
+
+#: inc/widgets/widgets.php:39
+msgid "Login Page Widget"
+msgstr "ورود به صفحه ابزارک"
+
+#: inc/widgets/widgets.php:52
+msgid "One"
+msgstr "یک"
+
+#: inc/widgets/widgets.php:53
+msgid "Two"
+msgstr "دو"
+
+#: inc/widgets/widgets.php:54
+msgid "Three"
+msgstr "سه"
+
+#: inc/widgets/widgets.php:57
+msgid "Footer Widget "
+msgstr "ابزارک فوتر"
+
+#: inc/woocommerce-login.php:11
+#, php-format
+msgid ""
+"You are currently logged in. If you wish to register with a different "
+"account please <a href=\"%s\">log out</a> first"
+msgstr ""
+"شما در حال حاضر وارد سیستم شده اید. اگر می خواهید با حساب دیگری ثبت نام کنید "
+"ابتدا<a href=\"%s\"> از سیستم خارج شوید </a>"
+
+#: inc/woocommerce-login.php:25
+msgid "Username"
+msgstr "نام کاربری"
+
+#: inc/woocommerce-login.php:30
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+#: inc/woocommerce-login.php:35 inc/woocommerce-login.php:77
+msgid "Password"
+msgstr "پسورد"
+
+#: inc/woocommerce-login.php:74
+msgid "Username or email address"
+msgstr "نام کاربری یا آدرس ایمیل"
+
+#: inc/woocommerce-login.php:85
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+#: inc/woocommerce-login.php:88
+msgid "Lost your password?"
+msgstr "رمز عبور خود را فراموش کرده اید؟"
+
+#: inc/woocommerce.php:68
+msgid "WooCommerce Sidebar"
+msgstr "سایدبار ووکامرس"
+
+#: inc/woocommerce.php:121
+msgid "View your shopping cart"
+msgstr "سبد خرید خود را مشاهده کنید"
+
+#: inc/woocommerce.php:125
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "آیتم %d"
+msgstr[1] "آیتم %d"
+
+#: inc/woocommerce.php:202
+msgid "Quick View"
+msgstr "مشاهده سریع"
+
+#: inc/woocommerce.php:248
+msgid "Add To Compare"
+msgstr "افزودن برای مقایسه"
+
+#: inc/woocommerce.php:248
+msgid "Compare"
+msgstr "مقایسه کنید"
+
+#: single.php:29
+msgid "Next"
+msgstr "بعدی"
+
+#: single.php:30
+msgid "Next post:"
+msgstr "پست بعدی:"
+
+#: single.php:32
+msgid "Previous"
+msgstr "قبلی"
+
+#: single.php:33
+msgid "Previous post:"
+msgstr "پست قبلی:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "پیدا نشد"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"آماده انتشار اولین پست خود هستید؟ <a href=\"%1$s\">از اینجا شروع کنید</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"متأسفیم ، هیچ چیزی با شرایط جستجوی شما یافت نشد . لطفاً با برخی از کلمات "
+"کلیدی مختلف دوباره امتحان کنید ."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"به نظر می رسد که می توانیم به راحتی آنچه را که شما جستجو می کنید پیدا کنیم ؛ "
+"شاید جستجو به شما کمک کند ."
+
+#: template-parts/footer/footer-component.php:40
+msgid " has been added to your cart"
+msgstr "به سبد خرید شما اضافه شده است"
+
+#: template-parts/footer/footer-component.php:41
+msgid "View Cart"
+msgstr "مشاهده سبد خرید"
+
+#: template-parts/header/offcanvas-menu.php:25
+msgid "Main Navigation"
+msgstr "پیمایش اصلی"
+
+#: template-parts/header/offcanvas-menu.php:63
+msgid "Social profiles"
+msgstr "پروفایل های اجتماعی"
+
+#: woocommerce/add-to-wishlist.php:17
+msgid "Add To Wishlist"
+msgstr "افزودن به لیست علاقه مندی ها"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart totals"
+msgstr "مجموع سبد خرید"
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/mini-cart.php:69
+msgid "Subtotal"
+msgstr "جمع کل"
+
+#: woocommerce/cart/cart-totals.php:54
+#, php-format
+msgid "(estimated for %s)"
+msgstr "( تخمین زده شده برای %s )"
+
+#: woocommerce/cart/cart-totals.php:75 woocommerce/cart/cart-totals.php:76
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:105
+msgid "Total"
+msgstr "کل"
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:61
+msgid "Product"
+msgstr "محصول"
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:81
+msgid "Price"
+msgstr "قیمت"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:87
+msgid "Quantity"
+msgstr "مقدار"
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr "در backorder موجود است"
+
+#: woocommerce/cart/cart.php:117 woocommerce/cart/mini-cart.php:45
+msgid "Remove this item"
+msgstr "این مورد را حذف کنید"
+
+#: woocommerce/cart/cart.php:136
+msgid "Back To Shop"
+msgstr "بازگشت به فروشگاه"
+
+#: woocommerce/cart/cart.php:141
+msgid "Update cart"
+msgstr "آپدیت سبد خرید"
+
+#: woocommerce/cart/cart.php:162
+msgid "Coupon"
+msgstr "تخفیف"
+
+#: woocommerce/cart/cart.php:167
+msgid "Coupon code"
+msgstr "کد تخفیف"
+
+#: woocommerce/cart/cart.php:167
+msgid "Apply coupon"
+msgstr "درخواست تخفیف"
+
+#: woocommerce/cart/cart.php:177 woocommerce/cart/cart.php:192
+#: woocommerce/cart/cart.php:193
+msgid "Shipping"
+msgstr "حمل دریایی"
+
+#: woocommerce/cart/mini-cart.php:77
+msgid "No products in the cart."
+msgstr "هیچ محصولی در سبد خرید نیست."
+
+#: woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr "کشوری را انتخاب کنید ؛"
+
+#: woocommerce/cart/shipping-calculator.php:48
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / County"
+msgstr "کشور / استان"
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select an option&hellip;"
+msgstr "یک گزینه را انتخاب کنید ؛"
+
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr "شهر"
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / ZIP"
+msgstr "کدپستی / ZIP"
+
+#: woocommerce/content-product-2.php:77 woocommerce/content-product.php:61
+msgid "Add To Cart"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "0%"
+msgstr "0%"
+
+#: woocommerce/single-product-reviews.php:104
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s بررسی برای %2$s"
+msgstr[1] "%1$s بررسی برای %2$s"
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Reviews"
+msgstr "بررسی ها"
+
+#: woocommerce/single-product-reviews.php:134
+msgid "There are no reviews yet."
+msgstr "هنوز هیچ نظری وجود ندارد"
+
+#: woocommerce/single-product-reviews.php:146
+msgid "Add a review"
+msgstr "بررسی اضافه کنید"
+
+#: woocommerce/single-product-reviews.php:146
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "اولین نفری باشید که دیدگاهی را ارسال می کنید &ldquo;%s&rdquo;"
+
+#: woocommerce/single-product-reviews.php:148
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "پاسخ به%s بگذارید"
+
+#: woocommerce/single-product-reviews.php:153
+msgid "Name"
+msgstr "نام"
+
+#: woocommerce/single-product-reviews.php:155
+msgid "Email"
+msgstr "ایمیل"
+
+#: woocommerce/single-product-reviews.php:158
+msgid "Submit"
+msgstr "ارسال"
+
+#: woocommerce/single-product-reviews.php:166
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "برای ارسال نظر ، باید %1$s در%2$s ثبت نام کنید."
+
+#: woocommerce/single-product-reviews.php:170
+msgid "Your rating"
+msgstr "امتیاز شما"
+
+#: woocommerce/single-product-reviews.php:171
+msgid "Rate&hellip;"
+msgstr "امتیاز دهید;"
+
+#: woocommerce/single-product-reviews.php:172
+msgid "Perfect"
+msgstr "عالی"
+
+#: woocommerce/single-product-reviews.php:173
+msgid "Good"
+msgstr "خوب"
+
+#: woocommerce/single-product-reviews.php:174
+msgid "Average"
+msgstr "میانگین"
+
+#: woocommerce/single-product-reviews.php:175
+msgid "Not that bad"
+msgstr "بد نیست"
+
+#: woocommerce/single-product-reviews.php:176
+msgid "Very poor"
+msgstr "خیلی بد"
+
+#: woocommerce/single-product-reviews.php:180
+msgid "Your review"
+msgstr "بررسی شما"
+
+#: woocommerce/single-product-reviews.php:187
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"فقط مشتریانی که این محصول را خریداری کرده اند می توانند وارد بررسی شوند."

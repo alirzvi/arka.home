@@ -1,0 +1,182 @@
+/*!
+Theme Name:         Shopay Store
+Theme URI:          https://mysterythemes.com/wp-themes/shopay-store/
+Author:             Mystery Themes
+Author URI:         https://mysterythemes.com
+Description:        Shopay Store is the child theme of Shopay which is highly customizable and beautifully designed WordPress theme built-in with full WooCommerce support. The theme is perfectly integrated with any kinds of e-commerce stores loaded with all the extensive functionality and features. It is fully compatible with WooCommerce and YITH WooCommerce plugins to provide ultimate eCommerce value. Additionally, theme features color options, 7+homepage widgets , sidebar layouts, header and footer customization and many more.The theme comes with a comprehensive documentation guide that helps you to build a unique website from the root. It is built-in with a customizer that enables you to configure with live preview. Besides these, it is fully responsive and mobile-friendly that fits well on any types of devices. With the support of  one-click demo import plugin, turn your website into a mind-blowing online store. Get the demo at https://demo.mysterythemes.com/shopay-demos/
+Version:            1.0.1
+Requires at least:  4.7
+Tested up to:       5.5
+Requires PHP:       5.2.4
+License:            GNU General Public License v3 or later
+License URI:        http://www.gnu.org/licenses/gpl-3.0.html
+Template:           shopay
+Text Domain:        shopay-store
+Tags:               e-commerce, food-and-drink, portfolio, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-logo, footer-widgets,rtl-language-support, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+/*--------------------------------------------------------------
+body Font CSS
+--------------------------------------------------------------*/
+body, button, input, select, textarea {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Khula', sans-serif;
+}
+
+#primary-menu li a {
+	font-weight: 500;
+}
+
+.woocommerce #page ul.products li.product .price {
+	color: #555;
+}
+
+.woocommerce-loop-product__title {
+	font-weight: 700;
+}
+
+.no-featured-section .main-slider-section {
+	width: 100%;
+}
+
+.no-featured-section .main-slider-section .lSSlideOuter {
+	width: 65%;
+	float: left;
+}
+
+.no-featured-section .main-slider-section .slider-featured-section {
+	float: right;
+	width: 34.5%;
+}
+
+.no-featured-section .slider-featured-section .featured-section {
+	width: 100%;
+	float: none;
+	margin-bottom: 4%;
+}
+
+.no-slider-content > a {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.main-category-list-title, 
+.home #page .main-category-list-title a, 
+#search-bar-section .cart-contents,
+.shopay-cat-menu-wrapper .main-category-list-title a,
+.shopay-whishlist a {
+	color: #333;
+}
+
+.count::after {
+	background: #333;
+	right: -11px;
+}
+
+.services-wrap li {
+	padding: 0 0;
+    text-align: left;
+}
+
+.services-wrapper {
+	background: none;
+}
+.highlight-products-section {
+	background: #f9f9f9;
+}
+
+.shopay_category_products .shopay-category-products-section .product-btns-wrap a::after, 
+.shopay_category_products .shopay-category-products-section .product-btns-wrap a {
+	font-size: 13px;
+}
+
+.services-wrap {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.services-wrap li {
+	padding: 0 0;
+	text-align: left;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	width: 20%;
+	justify-content: center;
+	align-items: center;
+}
+
+.services-item .services-title {
+	font-size: 16px;
+	font-weight: 900;
+	display: block;
+	vertical-align: top;
+	color: #222;
+}
+
+.services-item span {
+	font-size: 14px;
+	font-weight: 400;
+	display: block;
+	color: #666666;
+}
+
+
+@media (max-width: 980px) {
+.no-featured-section .main-slider-section .slider-featured-section,
+.no-featured-section .main-slider-section .lSSlideOuter,
+.no-featured-section .main-slider-section {
+	width: 100%;
+	float: none;
+}
+.no-featured-section .main-slider-section .slider-featured-section{
+    width: 103%;
+}
+.no-featured-section .slider-featured-section .featured-section {
+	width: 47%;
+	float: left;
+}
+}
+
+@media (max-width: 767px) {
+.no-featured-section .slider-featured-section .featured-section {
+	float: none;
+	width: 100%;
+}
+.no-featured-section .main-slider-section .slider-featured-section {
+	width: 100%;
+	margin-top: 20px;
+}
+.shopay-bg-image.medium-image {
+	height: 16em;
+	background-size: 100%;
+}
+.shopay-bg-image.cover-image {
+	background-size: 100% auto;
+	height: 15em !important;
+}
+}
+
+@media (max-width:600px) {
+.services-wrap li {
+	width: 100%;
+	text-align: center;
+	flex-wrap: nowrap;
+	display: block;
+	margin: 15px 0;
+}
+.services-item i {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+}
+
+

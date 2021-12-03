@@ -1,0 +1,273 @@
+@import url("../shopay/rtl.css");
+
+.top-header-elements-wrap {
+    float: left !important;
+}
+
+.top-header-description {
+    float: right !important;
+}
+
+.top-header-elements {
+    float: right !important;
+    margin-right: 18px;
+    margin-left: 0 !important;
+}
+
+.site-branding {
+    margin-left: -4px !important;
+    margin-right: 0 !important;
+}
+
+.sticky-sidebar-icon {
+	text-align: right !important;
+}
+
+#site-navigation ul li a .menu-item-description {
+    left: -30px;
+    right: auto !important;
+}
+
+#site-navigation {
+    float: right !important;
+}
+
+#masthead .primary-menu-wrap, #masthead .menu-toggle {
+    float: right !important;
+}
+
+.header-site-info-wrap {
+    float: left !important;
+}
+
+.main-category-list-title {
+    float: right !important;
+}
+
+.shopay-cat-menu.deactivate-menu {
+    right: 0;
+    left: auto !important;
+}
+
+.header-search-form-wrap {
+    float: right !important;
+}
+
+.shopay-whishlist {
+    float: right !important;
+    margin-right: 10px;
+    margin-left: 0 !important;
+}
+
+#search-bar-section .site-header-cart:hover .widget_shopping_cart, #search-bar-section .site-header-cart.focus .widget_shopping_cart:hover {
+    left: 0 !important;
+    right: auto !important;
+}
+
+.header-woo-links-wrap {
+    float: left !important;
+}
+
+.search-wrap .sm_search_wrap {
+    left: 11%;
+    right: auto !important;
+}
+
+.shopay-cat-menu .mt-modal-close {
+	left: 10px;
+	right: auto !important;
+}
+
+.no-featured-section .main-slider-section .lSSlideOuter {
+    float: right !important;
+}
+
+.slider-featured-section .featured-section {
+	float: right !important;
+	margin-right: 3%;
+	margin-left: 0 !important;
+}
+
+.shopay-image-figure-wrapper {
+    float: right !important;
+}
+
+.latest-products-wrap {
+    float: left !important;
+}
+
+.latest-products-wrap li {
+    margin-right: 5% !important;
+    margin-left: -4px !important;
+}
+
+.services-item i {
+    margin-left: 12px;
+    margin-right: 0 !important;
+}
+
+.woocommerce .yith-wcwl-add-button a, .product-btns-wrap a {
+	text-align: right !important;
+	padding: 4px 7px !important;
+}
+
+.woocommerce .yith-wcwl-add-button a.add_to_wishlist:after, .product-btns-wrap a.added_to_cart:after, .product-btns-wrap a.wishlist-button:after, .product-btns-wrap a.add_to_cart_button::after {
+    left: 4px;
+    right: auto !important;
+}
+
+.shopay_category_products .shopay-category-products-section .product-btns-wrap a:after, .shopay_category_products .shopay-category-products-section .product-btns-wrap a {
+    padding-right: 10px;
+    padding-left: 0 !important;
+}
+
+.footer-social-media-section .follow-us-icon {
+    margin-left: 18px;
+    margin-right: 0 !important;
+}
+
+.woocommerce div.product form.cart .button {
+	float: right !important;
+    padding: 8px 10px 8px 40px !important;
+    margin-right: 10px;
+    margin-left: 0 !important;
+}
+
+.woocommerce .single_add_to_cart_button:after {
+    left: 12px;
+    right: auto !important;
+}
+
+.woocommerce .cart .button, .woocommerce .cart input.button {
+    float: left !important;
+}
+
+#yith-quick-view-modal .yith-wcqv-wrapper {
+    text-align: right;
+}
+
+#yith-quick-view-close {
+	left: 5px;
+	right: auto !important;
+}
+
+#yith-quick-view-content .onsale {
+    left: auto;
+    right: 400px !important;
+}
+
+.widget-title {
+    text-align: right !important;
+}
+
+.pswp__button {
+	float: left !important;
+}
+
+.pswp__caption__center {
+    text-align: center !important;
+}
+
+.footer-widget-wrapper {
+    margin-right: -3%;
+    margin-right: 0 !important;
+}
+
+#shopay-scroll-to-top {
+    left: 40px;
+    right: auto !important;
+}
+
+.widget_search .search-field {
+    float: right !important;
+}
+
+.widget_recent_entries a::before {
+    content: "\f100" !important;
+}
+
+.widget_meta a::before {
+    content: "\f053 " !important;
+}
+
+.woocommerce .woocommerce-info, .woocommerce .woocommerce-message {
+    padding: 16px 50px 16px 20px !important;
+}
+
+#search-bar-section .woocommerce-mini-cart-item a {
+    padding-right: 20px;
+    padding-left: 0 !important;
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+	color: #000 !important;
+}
+
+.woocommerce div.product p.price del {
+    float: right !important;
+    margin-left: 15px;
+    margin-right: 0 !important;
+}
+
+caption, th, td {
+    text-align: right !important;
+}
+
+@media (max-width: 980px) {
+#masthead .primary-menu-wrap.menu-active {
+    right: 0;
+	left: auto !important
+}
+	
+.main-menu-close {
+	left: 0px;
+	right: auto !important; }
+}
+
+@media (max-width: 600px) {
+.woocommerce .yith-wcwl-add-button a.add_to_wishlist::after, .product-btns-wrap a.added_to_cart::after, .product-btns-wrap a.wishlist-button::after, .product-btns-wrap a.add_to_cart_button::after {
+    top: 4px !important; }
+}
+
+@media (max-width: 980px) {
+.related.products .product-btns-wrap a {
+    width: 48% !important; }
+}
+
+.rtl.woocommerce .price_label, .rtl.woocommerce .price_label span {
+	direction: rtl !important;
+}
+
+.woocommerce .widget_price_filter .price_slider_amount .button {
+    float: left !important;
+}
+
+.woocommerce .widget_price_filter .price_slider_amount {
+    text-align: right !important;
+}
+
+.highlight-image {
+    float: right;
+}
+
+.highlight-content-wrap {
+    padding-right: 12px !important;
+    padding-left: 0 !important;
+}
+
+a.next.page-numbers {
+    transform: rotate(180deg);
+}
+
+a.prev.page-numbers {
+    transform: rotate(180deg);
+}
+
+
+.everest-forms .everest-forms-part-button, .everest-forms a.button:not(.button-large), .everest-forms button.button:not(.button-large), .everest-forms button[type=submit], .everest-forms input[type=submit] {
+    background-color: #9E9E9E !important;
+}
+
+.everest-forms .everest-forms-part-button:active, .everest-forms .everest-forms-part-button:hover, .everest-forms a.button:not(.button-large):active, .everest-forms a.button:not(.button-large):hover, .everest-forms button.button:not(.button-large):active, .everest-forms button.button:not(.button-large):hover, .everest-forms button[type=submit]:active, .everest-forms button[type=submit]:hover, .everest-forms input[type=submit]:active, .everest-forms input[type=submit]:hover {
+    background-color: #BDBDBD !important;
+}

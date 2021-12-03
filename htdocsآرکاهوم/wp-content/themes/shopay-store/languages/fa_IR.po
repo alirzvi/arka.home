@@ -1,0 +1,1082 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shopay Store\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-15 08:27+0000\n"
+"PO-Revision-Date: 2021-01-27 02:34+0330\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Loco-Version: 2.4.6; wp-5.6\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+
+#: inc/mt-theme-settings.php:526
+msgid "$59.99"
+msgstr "$59.99"
+
+#: inc/mt-theme-settings.php:535 inc/mt-theme-settings.php:545
+msgid "1"
+msgstr "1"
+
+#: inc/mt-theme-settings.php:565
+msgid "2"
+msgstr "2"
+
+#: inc/mt-theme-settings.php:536 inc/mt-theme-settings.php:540
+#: inc/mt-theme-settings.php:546
+msgid "3"
+msgstr "3"
+
+#: inc/mt-theme-settings.php:541
+msgid "5"
+msgstr "5"
+
+#: inc/mt-theme-settings.php:566
+msgid "800+"
+msgstr "800+"
+
+#: inc/mt-theme-settings.php:128
+msgid "Action failed. Please refresh the page and retry."
+msgstr "اقدام ناموفق بود لطفا صفحه را تازه کنید و دوباره امتحان کنید."
+
+#: inc/mt-theme-settings.php:778
+msgid "Activate Now"
+msgstr "اکنون فعال کنید"
+
+#: inc/mt-theme-settings.php:777
+msgid "Activated"
+msgstr "فعال شده"
+
+#: inc/mt-theme-settings.php:777
+msgid "Activating"
+msgstr "فعال کردن"
+
+#: inc/customizer.php:78
+msgid "Add another description for service item."
+msgstr "توضیح دیگری برای مورد خدمات اضافه کنید."
+
+#: inc/customizer.php:73
+msgid "Add description for service item."
+msgstr "توضیحات مربوط به مورد خدمات را اضافه کنید."
+
+#: inc/customizer.php:62
+msgid "Add New Service"
+msgstr "خدمات جدید اضافه کنید"
+
+#: inc/widgets/sps-slider-widget.php:139
+msgid "Add to cart"
+msgstr "خرید"
+
+#: inc/mt-theme-settings.php:539
+msgid "Archive Pages Layouts"
+msgstr "آرشیو طرح بندی صفحات"
+
+#: inc/widgets/sps-slider-widget.php:217
+msgid "Button Label"
+msgstr "برچسب دکمه"
+
+#: inc/widgets/sps-slider-widget.php:223
+msgid "Button Link"
+msgstr "لینک دکمه"
+
+#: inc/mt-theme-settings.php:421
+msgid "Buy Now"
+msgstr "اکنون بخرید"
+
+#: inc/mt-theme-settings.php:587
+msgid "Buy Pro"
+msgstr "خرید Pro"
+
+#: inc/widgets/sps-slider-widget.php:86
+msgid "Category type"
+msgstr "نوع دسته بندی"
+
+#: inc/mt-theme-settings.php:214
+msgid "Changelog"
+msgstr "تغییرات"
+
+#: inc/mt-theme-settings.php:132
+msgid "Cheat in &#8217; huh?"
+msgstr "Cheat in &#8217; huh?"
+
+#: inc/widgets/sps-slider-widget.php:160
+msgid "Checked to show featured section under slider."
+msgstr "علامت گذاری شده است تا بخش ویژه را در زیر اسلایدر نشان دهد."
+
+#: inc/customizer.php:68
+msgid "Choose required icon from available list."
+msgstr "آیکون مورد نیاز را از لیست موجود انتخاب کنید."
+
+#: inc/widgets/sps-slider-widget.php:88
+msgid "Choose the category type to display on slider."
+msgstr "نوع دسته را برای نمایش در اسلایدر انتخاب کنید."
+
+#: inc/mt-theme-settings.php:376
+msgid "Click to import demo"
+msgstr "برای وارد کردن نسخه ی نمایشی کلیک کنید"
+
+#: inc/mt-theme-settings.php:156
+#, php-format
+msgid "Clicking get started will process to installation of %1$s Mystery Themes Demo Importer %2$s Plugin in your dashboard. After success it will redirect to the theme settings page."
+msgstr "با کلیک بر روی شروع ، نصب پلاگین %1$s Mystery Themes Demo Importer %2$s در داشبورد شما انجام می شود. پس از موفقیت به صفحه تنظیمات تم هدایت می شود.."
+
+#: inc/mt-theme-settings.php:559
+msgid "Custom 404 Page"
+msgstr "صفحه 404 سفارشی"
+
+#: inc/widgets/sps-slider-widget.php:115
+msgid "Default Categories"
+msgstr "دسته های پیش فرض"
+
+#: inc/widgets/sps-slider-widget.php:32 inc/widgets/sps-slider-widget.php:37
+msgid "Default Category"
+msgstr "دسته بندی پیش فرض"
+
+#: inc/mt-theme-settings.php:378
+msgid "Demo importer plugin is not installed or activated"
+msgstr "پلاگین وارد کننده نسخه ی نمایشی نصب یا فعال نشده است"
+
+#: inc/mt-theme-settings.php:206
+msgid "Demos"
+msgstr "دموها"
+
+#: inc/customizer.php:72
+msgid "Description"
+msgstr "توضیحات"
+
+#: inc/customizer.php:77
+msgid "Description ( Two )"
+msgstr "توضیحات (دو)"
+
+#: inc/mt-theme-settings.php:262
+msgid "Design Settings"
+msgstr "تنظیمات طراحی"
+
+#: inc/mt-theme-settings.php:149
+msgid "Dismiss this notice."
+msgstr "این اخطار را رد کنید."
+
+#: inc/widgets/sps-slider-widget.php:16
+msgid "Display posts from selected category as slider."
+msgstr "پست از دسته بندی انتخاب شده به عنوان اسلایدر."
+
+#: inc/widgets/sps-services.php:16
+msgid "Display services images."
+msgstr "نمایش تصاویر خدمات."
+
+#: inc/mt-theme-settings.php:277
+msgid "Documentation"
+msgstr "مستندات"
+
+#: inc/mt-theme-settings.php:159
+msgid "Done!"
+msgstr "انجام شده!"
+
+#: inc/widgets/sps-slider-widget.php:200
+msgid "Featured Image"
+msgstr "تصویر ویژه"
+
+#: inc/widgets/sps-slider-widget.php:188
+msgid "Featured Item 1"
+msgstr "مورد ویژه 1"
+
+#: inc/widgets/sps-slider-widget.php:183
+msgid "Featured Item 2"
+msgstr "مورد ویژه 2"
+
+#: inc/widgets/sps-slider-widget.php:74
+msgid "Featured Products"
+msgstr "محصولات ویژه"
+
+#: inc/widgets/sps-slider-widget.php:44
+msgid "Featured Products Section"
+msgstr "بخش محصولات ویژه"
+
+#: inc/widgets/sps-slider-widget.php:153
+msgid "Featured Section"
+msgstr "بخش ویژه"
+
+#: inc/mt-theme-settings.php:517
+msgid "Features"
+msgstr "ویژگی ها"
+
+#: inc/mt-theme-settings.php:525
+msgid "Free"
+msgstr "رایگان"
+
+#: inc/mt-theme-settings.php:210
+msgid "Free Vs Pro"
+msgstr "Vs Pro رایگان"
+
+#: inc/mt-theme-settings.php:579
+msgid "GDPR Compatible"
+msgstr "سازگار با GDPR"
+
+#: inc/mt-theme-settings.php:202
+msgid "Get Started"
+msgstr "شروع کنید"
+
+#: inc/mt-theme-settings.php:160
+#, php-format
+msgid "Get started with %1$s"
+msgstr "شروع با %1$s"
+
+#: inc/mt-theme-settings.php:302
+msgid "Go to Dashboard"
+msgstr "به داشبورد بروید"
+
+#: inc/mt-theme-settings.php:302
+msgid "Go to Dashboard &rarr; Home"
+msgstr "به داشبورد بروید &rarr; خانه"
+
+#: inc/mt-theme-settings.php:564
+msgid "Google Fonts"
+msgstr "فونت های گوگل"
+
+#: inc/mt-theme-settings.php:666
+msgid "Got theme support question?"
+msgstr "سوال نیاز به پشتیبانی قالب دارید؟"
+
+#: inc/mt-theme-settings.php:534
+msgid "Header Layouts"
+msgstr "طرح بندی هیدر"
+
+#: inc/mt-theme-settings.php:253
+msgid "Here are some useful links for you to get started"
+msgstr "در اینجا چند لینک مفید برای شروع وجود دارد"
+
+#: inc/mt-theme-settings.php:259
+msgid "Homepage Slider"
+msgstr "صفحه اصلی اسلایدر"
+
+#: inc/mt-theme-settings.php:640
+#, php-format
+msgid "Howdy, %1$s! It seems that you have been using this theme for more than 15 days. We hope you are happy with everything that the theme has to offer. If you can spare a minute, please help us by leaving a 5-star review on WordPress.org.  By spreading the love, we can continue to develop new amazing features in the future, for free!"
+msgstr "تذکر, %1$s! به نظر می رسد شما بیش از 15 روز از این قالب استفاده کرده اید. ما امیدواریم که شما از همه چیزهایی که موضوع ارائه می دهد خوشحال باشید. اگر می توانید یک دقیقه وقت صرف کنید ، لطفا با گذاشتن یک بررسی 5 ستاره در WordPress.org به ما کمک کنید. می توانیم به توسعه رایگان ویژگی های شگفت انگیز جدید در آینده ادامه دهیم!"
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com"
+msgstr "https://mysterythemes.com"
+
+#: inc/mt-theme-settings.php:661
+msgid "I already did"
+msgstr "قبلا انجام دادم"
+
+#: inc/mt-theme-settings.php:747
+#, php-format
+msgid "If you like <strong>%1$s</strong> please leave us a %2$s rating. A huge thank you from <strong>Mystery Themes</strong> in advance &#128515!"
+msgstr "اگر <strong>%1$s</strong> را دوست دارید ، لطفاً برای ما یک امتیاز %2$s بگذارید. پیشاپیش بسیار متشکرم از <strong>Mystery Themes</strong> &#128515!"
+
+#: inc/mt-theme-settings.php:554
+msgid "Image Hover Features"
+msgstr "ویژگی های هاور تصویر"
+
+#: inc/widgets/sps-slider-widget.php:206
+msgid "Image Link"
+msgstr "لینک تصویر"
+
+#: inc/mt-theme-settings.php:382
+msgid "Import"
+msgstr "وارد کردن"
+
+#: inc/mt-theme-settings.php:381
+#, php-format
+msgid "Import %1$s"
+msgstr "وارد کردن %1$s"
+
+#: inc/mt-theme-settings.php:371
+msgid "Imported"
+msgstr "وارد شده"
+
+#: inc/mt-theme-settings.php:370
+#, php-format
+msgid "Imported %1$s"
+msgstr "وارد شده %1$s"
+
+#: inc/widgets/sps-services.php:39
+msgid "Info"
+msgstr "اطلاعات"
+
+#: inc/mt-theme-settings.php:771
+msgid "Install and Activate"
+msgstr "نصب و فعال سازی"
+
+#: inc/mt-theme-settings.php:770
+msgid "Installed & Activated"
+msgstr "نصب و فعال"
+
+#: inc/mt-theme-settings.php:770
+msgid "Installing & Activating"
+msgstr "نصب و فعال سازی"
+
+#. If there are characters in your language that are not supported
+#. by Muli font, translate this to 'off'. Do not translate into your own language.
+#: functions.php:58
+msgctxt "Khula font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: inc/mt-theme-settings.php:265
+msgid "Manage menus"
+msgstr "منوها را مدیریت کنید"
+
+#: inc/mt-theme-settings.php:268
+msgid "Manage Social Icons"
+msgstr "آیکون های شبکه اجتماعی را مدیریت کنید"
+
+#: inc/mt-theme-settings.php:656
+msgid "Maybe later"
+msgstr "شاید بعدا"
+
+#: inc/mt-theme-settings.php:274
+msgid "More Actions"
+msgstr "اقدامات بیشتر"
+
+#: inc/widgets/sps-services.php:21
+msgid "MT: Services"
+msgstr "MT: خدمات"
+
+#: inc/widgets/sps-slider-widget.php:21
+msgid "MT: Slider"
+msgstr "MT: اسلایدر"
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr "Mystery Themes"
+
+#: inc/mt-theme-settings.php:776
+msgid "Mystery Themes Demo Importer Plugin is installed but not activated!"
+msgstr "افزونه Mystery Themes Demo Importer نصب شده است اما فعال نشده است!"
+
+#: inc/mt-theme-settings.php:769
+msgid "Mystery Themes Demo Importer Plugin is not installed!"
+msgstr "افزونه Mystery Themes Demo Importer نصب نشده است!"
+
+#: inc/mt-theme-settings.php:283
+msgid "Need theme support?"
+msgstr "به پشتیبانی از قالب نیاز دارید؟"
+
+#: inc/mt-theme-settings.php:256
+msgid "Next Steps"
+msgstr "مراحل بعدی"
+
+#: inc/mt-theme-settings.php:338
+msgid "No demos are configured for this theme, please contact the theme author"
+msgstr "هیچ نسخه نمایشی برای این قالب پیکربندی نشده است ، لطفا با طراح قالب تماس بگیرید"
+
+#: inc/mt-theme-settings.php:893
+msgid "Plugin installed successfully"
+msgstr "پلاگین با موفقیت نصب شد"
+
+#: inc/mt-theme-settings.php:812
+msgid "Plugin Successfully Activated."
+msgstr "پلاگین با موفقیت فعال شد."
+
+#: inc/widgets/sps-slider-widget.php:131
+msgid "Post Count"
+msgstr "تعداد پست ها"
+
+#: inc/mt-theme-settings.php:549
+msgid "Post Review"
+msgstr "بررسی پست"
+
+#: inc/mt-theme-settings.php:529
+msgid "Pre Loaders Layouts"
+msgstr "طرح بندی لودینگ"
+
+#: inc/mt-theme-settings.php:280
+msgid "Premium version"
+msgstr "نسخه ممتاز"
+
+#: inc/mt-theme-settings.php:524
+msgid "Price"
+msgstr "قیمت"
+
+#: inc/mt-theme-settings.php:159
+msgid "Processing"
+msgstr "در حال پردازش"
+
+#: inc/widgets/sps-slider-widget.php:123
+msgid "Product Categories"
+msgstr "دسته بندی ها محصولات"
+
+#: inc/widgets/sps-slider-widget.php:33
+msgid "Product Category"
+msgstr "دسته بندی محصولات"
+
+#: inc/mt-theme-settings.php:420
+msgid "Purchase Now"
+msgstr "هم اکنون بخرید"
+
+#: inc/mt-theme-settings.php:299
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "بازگشت به داشبورد &rarr; به روز رسانی ها"
+
+#: inc/mt-theme-settings.php:299
+msgid "Return to Updates"
+msgstr "بازگشت به به روز رسانی ها"
+
+#: inc/mt-theme-settings.php:286
+msgid "Review theme"
+msgstr "قالب را بررسی کنید"
+
+#. If there are characters in your language that are not supported
+#. by Roboto font, translate this to 'off'. Do not translate into your own language.
+#: functions.php:66
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: inc/widgets/sps-services.php:32
+msgid "Section Title"
+msgstr "عنوان بخش"
+
+#: inc/customizer.php:67
+msgid "Service Icon"
+msgstr "آیکون خدمات"
+
+#: inc/customizer.php:61
+msgid "Service Item"
+msgstr "مورد خدمات"
+
+#: inc/widgets/sps-services.php:33
+msgid "Services"
+msgstr "خدمات"
+
+#: inc/customizer.php:60
+msgid "Services Items"
+msgstr "خدمات موارد"
+
+#: inc/widgets/sps-services.php:40
+#, php-format
+msgid "Services items are managed from %1$s customizer panel %2$s."
+msgstr "موارد خدمات از طریق مدیریت می شوند %1$s پنل سفارشی سازی %2$s."
+
+#: inc/mt-theme-settings.php:37
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/mt-theme-settings.php:518
+msgid "Shopay"
+msgstr "قالب فارسی Shopay"
+
+#: inc/mt-theme-settings.php:519
+msgid "Shopay Pro"
+msgstr "نسخه پرو قالب Shopay"
+
+#. Name of the theme
+#: inc/customizer.php:28
+msgid "Shopay Store"
+msgstr "Shopay Store"
+
+#. Description of the theme
+msgid "Shopay Store is the child theme of Shopay which is highly customizable and beautifully designed WordPress theme built-in with full WooCommerce support. The theme is perfectly integrated with any kinds of e-commerce stores loaded with all the extensive functionality and features. It is fully compatible with WooCommerce and YITH WooCommerce plugins to provide ultimate eCommerce value. Additionally, theme features color options, 7+homepage widgets , sidebar layouts, header and footer customization and many more.The theme comes with a comprehensive documentation guide that helps you to build a unique website from the root. It is built-in with a customizer that enables you to configure with live preview. Besides these, it is fully responsive and mobile-friendly that fits well on any types of devices. With the support of  one-click demo import plugin, turn your website into a mind-blowing online store. Get the demo at https://demo.mysterythemes.com/child-theme/shopay-store/"
+msgstr "فروشگاه Shopay موضوع کودک Shopay است که کاملاً قابل تنظیم است و پوسته وردپرس با پشتیبانی کامل از ووکامرس کاملاً زیبا طراحی شده است. موضوع کاملاً متناسب با انواع فروشگاه های تجارت الکترونیکی است که با تمام قابلیت ها و ویژگی های گسترده بارگیری شده است. برای ارائه ارزش نهایی تجارت الکترونیکی کاملاً با افزونه های WooCommerce و YITH WooCommerce سازگار است. علاوه بر این ، تم دارای ویژگی های رنگی ، ویجت های صفحه اصلی 7+ ، طرح های نوار کناری ، سفارشی سازی هدر و پاورقی و موارد دیگر است. موضوع همراه با یک راهنمای مستندات جامع است که به شما کمک می کند یک وب سایت منحصر به فرد از ریشه ایجاد کنید. این برنامه با یک سفارشی ساز داخلی ساخته شده است که به شما امکان می دهد با پیش نمایش زنده پیکربندی کنید. علاوه بر این ، کاملاً پاسخگو و سازگار با موبایل است که به خوبی در هر نوع دستگاهی متناسب است. با پشتیبانی از پلاگین وارد کردن نسخه ی نمایشی با یک کلیک ، وب سایت خود را به یک فروشگاه آنلاین مغتنم تبدیل کنید. نسخه ی نمایشی را در https://demo.mysterythemes.com/child-theme/shopay-store/ دریافت کنید"
+
+#: inc/widgets/sps-slider-widget.php:50
+msgid "Show Featured Products"
+msgstr "نمایش محصولات ویژه"
+
+#: inc/widgets/sps-slider-widget.php:159
+msgid "Show Featured Section"
+msgstr "نمایش بخش ویژه"
+
+#: inc/widgets/sps-slider-widget.php:146
+msgid "Show or hide slider content. Display only post thumbnail"
+msgstr "نمایش یا پنهان کردن محتوای اسلایدر. نمایش فقط تصویر بند انگشتی پست"
+
+#: inc/widgets/sps-slider-widget.php:145
+msgid "Show Slider Content"
+msgstr "نمایش اسلایدر"
+
+#: inc/mt-theme-settings.php:544
+msgid "Single Page Layouts"
+msgstr "چیدمان های تک صفحه"
+
+#: inc/widgets/sps-slider-widget.php:138
+msgid "Slide button text"
+msgstr "متن دکمه اسلاید"
+
+#: inc/widgets/sps-slider-widget.php:80
+msgid "Slider Section"
+msgstr "بخش اسلایدر"
+
+#: inc/mt-theme-settings.php:830
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "با عرض پوزش ، شما مجاز به نصب پلاگین در این سایت نیستید."
+
+#: inc/mt-theme-settings.php:651
+msgid "Sure"
+msgstr "مطمئن"
+
+#: inc/widgets/sps-slider-widget.php:73 inc/widgets/sps-slider-widget.php:211
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/widgets/sps-slider-widget.php:212
+msgid "Trending"
+msgstr "پرطرفدار"
+
+#: inc/widgets/sps-slider-widget.php:51
+msgid "Two latest featured products are listed."
+msgstr "دو محصول برجسته اخیر ذکر شده است."
+
+#: inc/mt-theme-settings.php:569
+msgid "Typography Options"
+msgstr "گزینه های تایپوگرافی"
+
+#: inc/mt-theme-settings.php:875
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "اتصال به سیستم پرونده امکان پذیر نیست. لطفا مدارک خود را تأیید کنید."
+
+#: inc/mt-theme-settings.php:195
+msgid "Unlock Features With Pro"
+msgstr "باز کردن ویژگی های با Pro"
+
+#: inc/mt-theme-settings.php:192
+msgid "Upgrade to Premium Version"
+msgstr "به نسخه Premium ارتقا دهید"
+
+#: inc/mt-theme-settings.php:193
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr "برای ویژگی های اضافی و پشتیبانی بهتر ، به نسخه حرفه ای ارتقا دهید."
+
+#: inc/mt-theme-settings.php:513
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "برای ویژگی های جذاب تر ، به نسخه PRO ارتقا دهید."
+
+#: inc/mt-theme-settings.php:185
+#, php-format
+msgid "Version: %1$s"
+msgstr "نسخه: %1$s"
+
+#: inc/mt-theme-settings.php:460
+msgid "View changelog below:"
+msgstr "مشاهده تغییرات زیر:"
+
+#: inc/mt-theme-settings.php:388 inc/mt-theme-settings.php:427
+msgid "View Demo"
+msgstr "مشاهده نسخه ی نمایشی"
+
+#: inc/mt-theme-settings.php:151
+#, php-format
+msgid "Welcome to %s"
+msgstr "خوش آمدید به %s"
+
+#: inc/mt-theme-settings.php:153
+#, php-format
+msgid "Welcome! Thank you for choosing %1$s ! To fully take advantage of the best our theme can offer please make sure you visit our %2$s theme settings page %3$s."
+msgstr "خوش آمدی! از اینکه %1$s را انتخاب کردید متشکریم! برای استفاده کامل از بهترین مواردی که قالب ما می تواند ارائه دهد ، لطفاً مطمئن شوید که از صفحه تنظیمات طرح زمینه%2$s %3$s بازدید کرده اید."
+
+#: inc/mt-theme-settings.php:574
+msgid "WooCommerce Plugin Compatible"
+msgstr "پلاگین WooCommerce سازگار است"
+
+#: inc/mt-theme-settings.php:289
+msgid "WP Tutorials"
+msgstr "WP Tutorials"
+
+#: inc/mt-theme-settings.php:765
+msgid "You can import available demos now!"
+msgstr "اکنون می توانید نسخه های نمایشی موجود را وارد کنید!"
+
+#: inc/customizer/mt-sections-and-panels.php:28
+#: inc/theme-settings/mt-theme-settings.php:264
+msgid "Theme Options"
+msgstr "تنظیمات قالب"
+
+#: inc/customizer/mt-sections-and-panels.php:45
+msgid "General"
+msgstr "عمومی"
+
+#: inc/customizer/sections/general/site-layout.php:31
+msgid "Site Style"
+msgstr "استایل سایت"
+
+#: inc/customizer/sections/general/site-layout.php:57
+msgid "Site Layout"
+msgstr "طرح بندی سایت"
+
+#: inc/customizer/sections/design/sidebar.php:58
+#: inc/customizer/sections/design/sidebar.php:126
+#: inc/customizer/sections/design/sidebar.php:194
+#: inc/customizer/sections/general/site-layout.php:58
+msgid "Choose from available layouts"
+msgstr "طرح بندی های موجود را انتخاب کنید"
+
+#: inc/customizer/sections/general/site-layout.php:144
+msgid "Enable Wow Animation"
+msgstr "انیمیشن سایت را فعال کنید"
+
+#: inc/customizer/sections/general/site-layout.php:170
+msgid "Enable Sticky Sidebar"
+msgstr "نوار کناری چسبنده را فعال کنید"
+
+#: inc/customizer/sections/general/preloader.php:31
+msgid "Preloader"
+msgstr "لودینگ"
+
+#: inc/customizer/sections/general/preloader.php:56
+msgid "Enable Preloader"
+msgstr "لودینگ را فعال کنید"
+
+#: inc/customizer/sections/general/colors.php:31
+msgid "Colors"
+msgstr "رنگ ها"
+
+#: inc/customizer/sections/general/colors.php:50
+msgid "Base Colors"
+msgstr "رنگ پایه"
+
+#: inc/customizer/sections/general/colors.php:84
+msgid "Header Text Color"
+msgstr "رنگ متن هدر"
+
+#: inc/customizer/sections/general/colors.php:110
+msgid "Theme Color"
+msgstr "رنگ قالب"
+
+#: inc/customizer/sections/general/social-icons.php:31
+#: inc/customizer/sections/general/social-icons.php:95
+msgid "Social Icons"
+msgstr "آیکن های شبکه اجتماعی"
+
+#: inc/customizer/sections/general/social-icons.php:78
+msgid "Social Link Target"
+msgstr "لینک شبکه های اجتماعی چه جوری باز شوند"
+
+#: inc/customizer/sections/general/social-icons.php:81
+msgid "New Window"
+msgstr "پنجره جدید"
+
+#: inc/customizer/sections/general/social-icons.php:82
+msgid "Same Window"
+msgstr "همین پنجره"
+
+#: inc/customizer/sections/general/social-icons.php:96
+msgid "Social Icon"
+msgstr "آیکون های شبکه اجتماعی"
+
+#: inc/customizer/sections/general/social-icons.php:102
+msgid "Icon"
+msgstr "آیکون"
+
+#: inc/customizer/sections/general/social-icons.php:107
+msgid "Icon Link"
+msgstr "لینک آیکون"
+
+#: inc/customizer/sections/general/social-icons.php:108
+msgid "Add social icon link."
+msgstr "لینک آیکون شبکه های اجتماعی را اضافه کنید."
+
+#: inc/customizer/sections/general/social-icons.php:97
+msgid "Add New Icon"
+msgstr "آیکون جدید اضافه کنید"
+
+#: inc/customizer/sections/general/scroll.php:31
+msgid "Scroll to Top"
+msgstr "پیمایش به بالا"
+
+#: inc/customizer/sections/general/scroll.php:57
+msgid "Enable Scroll to Top"
+msgstr "پیمایش به بالا را فعال کنید"
+
+#: inc/customizer/mt-sections-and-panels.php:63
+msgid "Header"
+msgstr "هدر"
+
+#: inc/customizer/sections/header/top.php:31
+msgid "Top Bar"
+msgstr "نوار بالا"
+
+#: inc/customizer/sections/header/top.php:57
+msgid "Enable Top Bar"
+msgstr "نوار بالا را فعال کنید"
+
+#: inc/customizer/sections/footer/main.php:155
+#: inc/customizer/sections/header/top.php:83
+msgid "Short Description"
+msgstr "توضیح کوتاه"
+
+#: inc/customizer/sections/header/top.php:109
+msgid "Site Location"
+msgstr "مکان سایت"
+
+#: inc/customizer/sections/header/top.php:135
+msgid "Site Service"
+msgstr "خدمات سایت"
+
+#: inc/customizer/mt-sections-and-panels.php:82
+msgid "Site Identity"
+msgstr "هویت سایت"
+
+#: inc/customizer/mt-sections-and-panels.php:107
+msgid "Display Site Title and Tagline"
+msgstr "نمایش عنوان سایت و شعار"
+
+#: inc/customizer/sections/footer/main.php:31
+#: inc/customizer/sections/header/main.php:31
+msgid "Main Area"
+msgstr "منوی اصلی"
+
+#: inc/customizer/sections/header/main.php:78
+msgid "Show Sticky Header Sidebar"
+msgstr "نوار کناری هدر چسبنده را نشان دهید"
+
+#: inc/widgets/widgets-functions.php:43
+#: inc/customizer/sections/header/main.php:50
+msgid "Sticky Header Sidebar"
+msgstr "نوار کناری هدر چسبنده"
+
+#: inc/customizer/sections/header/main.php:51
+msgid "Add widgets to show on header sticky sidebar"
+msgstr "ابزارک ها را برای نمایش در نوار کناری هدر چسبنده اضافه کنید"
+
+#: inc/customizer/sections/header/main.php:128
+msgid "Show Site Information"
+msgstr "نمایش اطلاعات سایت"
+
+#: inc/customizer/sections/header/main.php:154
+msgid "Contact Info"
+msgstr "اطلاعات تماس"
+
+#: inc/customizer/sections/header/main.php:180
+msgid "Email Info"
+msgstr "اطلاعات ایمیل"
+
+#: inc/customizer/sections/header/main.php:229
+msgid "Enable Category Menu"
+msgstr "منوی دسته بندی را فعال کنید"
+
+#: inc/customizer/sections/header/main.php:256
+msgid "Category Menu Title"
+msgstr "عنوان منوی دسته بندی"
+
+#: inc/customizer/sections/header/main.php:307
+msgid "Enable Search Field"
+msgstr "قسمت جستجو را فعال کنید"
+
+#: inc/customizer/sections/header/main.php:332
+msgid "Search Field Type"
+msgstr "نوع فیلد جستجو"
+
+#: inc/template-functions.php:481 inc/template-functions.php:486
+msgid "Default Search"
+msgstr "جستجوی پیش فرض"
+
+#: inc/template-functions.php:482
+msgid "Advance Product Search"
+msgstr "جستجوی پیشرفته محصولات"
+
+#: inc/customizer/sections/header/main.php:383
+msgid "Enable Woo Cart"
+msgstr "Woo Cart را فعال کنید"
+
+#: inc/customizer/sections/header/main.php:410
+msgid "Enable Yith Wishlist"
+msgstr "لیست دلخواه Yith را فعال کنید"
+
+#: inc/customizer/sections/header/main.php:437
+msgid "Enable Sticky Menu"
+msgstr "منوی چسبنده را فعال کنید"
+
+#: inc/customizer/sections/header/woo-product.php:31
+msgid "Woo Products"
+msgstr "اسلایدر محصولات"
+
+#: inc/customizer/sections/header/woo-product.php:32
+msgid "Only manage WooCommerce Highlight Products"
+msgstr "فقط محصولات برجسته ووکامرس را مدیریت کنید"
+
+#: inc/customizer/sections/header/woo-product.php:59
+msgid "Enable Highlight Woo Products"
+msgstr "محصولات برجسته ووکامرس را فعال کنید"
+
+#: inc/customizer/sections/header/breadcrumb.php:31
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/customizer/sections/header/breadcrumb.php:57
+msgid "Enable Breadcrumb"
+msgstr "Breadcrumb را فعال کنید"
+
+#: inc/customizer/sections/header/breadcrumb.php:82
+msgid "Home Label"
+msgstr "برچسب خانه"
+
+#: inc/customizer/mt-sections-and-panels.php:125
+msgid "Homepage"
+msgstr "صفحه اصلی"
+
+#: inc/customizer/sections/homepage/home-widget-area.php:31
+msgid "Homepage Sections"
+msgstr "بخش های صفحه اصلی"
+
+#: inc/customizer/sections/homepage/home-widget-area.php:32
+msgid "Add widgets to show on homepage content area."
+msgstr "ابزارک ها را برای نمایش در محتوای صفحه اصلی اضافه کنید."
+
+#: inc/widgets/sp-category-products.php:31
+#: inc/widgets/sp-latest-products.php:31
+msgid "Widget Title"
+msgstr "عنوان ویجت"
+
+#: inc/widgets/sp-latest-products.php:38
+msgid "Widget Description"
+msgstr "توضیحات ویجت"
+
+#: inc/widgets/sp-latest-products.php:44
+#: inc/customizer/sections/general/site-layout.php:93
+msgid "Background Image"
+msgstr "تصویر پس زمینه"
+
+#: inc/widgets/widgets-fields.php:270
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:202
+msgid "Remove"
+msgstr "حذف"
+
+#: inc/widgets/widgets-fields.php:271
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:201
+msgid "Select Image"
+msgstr "انتخاب تصویر"
+
+#: inc/widgets/sp-latest-products.php:51
+msgid "Image Title"
+msgstr "عنوان تصویر"
+
+#: inc/widgets/sp-latest-products.php:58
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: inc/widgets/sp-latest-products.php:71
+msgid "Product Type"
+msgstr "نوع محصول"
+
+#: inc/widgets/sp-latest-products.php:73
+msgid "Choose the product type options."
+msgstr "گزینه های نوع محصول را انتخاب کنید."
+
+#: inc/widgets/sp-latest-products.php:32 inc/widgets/sp-latest-products.php:76
+msgid "Latest Products"
+msgstr "آخرین محصولات"
+
+#: inc/widgets/widgets-fields.php:176 inc/widgets/widgets-fields.php:218
+msgid "- - Select Category - -"
+msgstr "- - دسته را انتخاب کنید - -"
+
+#: inc/widgets/sp-sponsors.php:38
+#, php-format
+msgid "Sponsors items are managed from %1$s customizer panel %2$s."
+msgstr "موارد حامی از طریق مدیریت می شوند %1$s پنل سفارشی سازی %2$s."
+
+#: inc/customizer/sections/homepage/sponsors.php:31
+msgid "Sponsors Section"
+msgstr "بخش حامیان"
+
+#: inc/customizer/sections/homepage/sponsors.php:63
+msgid "Sponsors Images"
+msgstr "تصاویر حامیان"
+
+#: inc/customizer/sections/homepage/sponsors.php:64
+msgid "Sponsor Image"
+msgstr "تصویر حامی"
+
+#: inc/customizer/sections/homepage/sponsors.php:70
+msgid "Logo/Image"
+msgstr "لوگو / تصویر"
+
+#: inc/customizer/sections/homepage/sponsors.php:71
+msgid "Choose sponsor logo or related image."
+msgstr "لوگو اسپانسریا تصویر مربوطه را انتخاب کنید."
+
+#: inc/customizer/sections/homepage/sponsors.php:65
+msgid "Add New Sponsor"
+msgstr "اسپانسر جدید اضافه کنید"
+
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:221
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:222
+msgid "Close"
+msgstr "بستن"
+
+#: inc/customizer/sections/homepage/services.php:31
+msgid "Services Section"
+msgstr "بخش خدمات"
+
+#: inc/customizer/mt-sections-and-panels.php:143
+msgid "Design"
+msgstr "دیزاین"
+
+#: inc/customizer/sections/design/sidebar.php:31
+msgid "Sidebar Layout"
+msgstr "طرح نوار کناری"
+
+#: inc/customizer/sections/design/sidebar.php:57
+msgid "Archive Sidebar Layout"
+msgstr "آرشیو طرح نوار کناری"
+
+#: inc/customizer/sections/design/sidebar.php:125
+msgid "Page Sidebar Layout"
+msgstr "طرح نوار کناری صفحه"
+
+#: inc/customizer/sections/design/sidebar.php:193
+msgid "Post Sidebar Layout"
+msgstr "طرح نوار کناری پست"
+
+#: inc/customizer/mt-sections-and-panels.php:161
+msgid "Footer"
+msgstr "فوتر"
+
+#: inc/customizer/sections/footer/main.php:57
+msgid "Enable Widget Area"
+msgstr "ناحیه ابزارک را فعال کنید"
+
+#: inc/customizer/sections/footer/main.php:83
+msgid "Widget Area Layout"
+msgstr "طرح ناحیه ابزارک"
+
+#: inc/customizer/sections/footer/main.php:84
+msgid "Choose layout from available options."
+msgstr "طرح را از گزینه های موجود انتخاب کنید."
+
+#: inc/customizer/sections/footer/main.php:181
+msgid "Enable Social Icons"
+msgstr "آیکون های شبکه اجتماعی را فعال کنید"
+
+#: inc/customizer/sections/footer/bottom.php:31
+msgid "Bottom Area"
+msgstr "ناحیه پایین"
+
+#: inc/customizer/sections/footer/bottom.php:57
+msgid "Copyright Text"
+msgstr "متن کپی رایت"
+
+#: inc/customizer/sections/footer/bottom.php:82
+msgid "Payment Method"
+msgstr "روش پرداخت"
+
+#: inc/customizer/sections/footer/bottom.php:83
+msgid "Upload image where include all payment method which do you have used."
+msgstr "تصویری را بارگذاری کنید که شامل همه روش پرداختی است که شما استفاده کرده اید."
+
+#: inc/woocommerce/woocommerce-functions.php:48
+msgid "Search products"
+msgstr "جستجو محصولات"
+
+#: inc/woocommerce/woocommerce-functions.php:22
+#: inc/woocommerce/woocommerce-functions.php:30
+msgid "All Categories"
+msgstr "همه دسته بندی ها"
+
+#: inc/woocommerce/woocommerce.php:315
+msgid "Add To Wishlist"
+msgstr "علاقه مندی ها"
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! آن صفحه یافت نمی شود."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می رسد در این مکان چیزی پیدا نشده است. شاید یکی از پیوندهای زیر یا جستجو را امتحان کنید؟"
+
+#: searchform.php:12
+msgid "Search &hellip;"
+msgstr "جستجو &hellip;"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#: functions.php:47
+msgid "Top Menu"
+msgstr "منوی بالا"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "منوی اصلی"
+
+#: functions.php:49
+msgid "Footer Menu"
+msgstr "منوی فوتر"
+
+#: inc/widgets/widgets-functions.php:17 inc/widgets/widgets-functions.php:31
+#: inc/widgets/widgets-functions.php:45 inc/widgets/widgets-functions.php:58
+#: inc/widgets/widgets-functions.php:71
+msgid "Add widgets here."
+msgstr "ابزارک ها را اینجا اضافه کنید."
+
+#: inc/widgets/widgets-functions.php:69
+#, php-format
+msgid "Footer Sidebar %d"
+msgstr "فوتر ستون %d"
+
+#: inc/widgets/widgets-functions.php:29
+msgid "Woocommerce Sidebar"
+msgstr "نوار کناری ووکامرس"
+
+#: inc/widgets/widgets-functions.php:15
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#: inc/widgets/sp-category-collection.php:16
+msgid "Display product categories from selected category as slider."
+msgstr "دسته های محصول را از دسته انتخاب شده به عنوان کشویی نمایش دهید."
+
+#: inc/widgets/sp-default-posts.php:16
+msgid "Display default posts in grid view."
+msgstr "نمایش پست های پیش فرض در نمای شبکه."
+
+#: inc/widgets/sp-category-products.php:16
+msgid "Display products from selected category."
+msgstr "نمایش محصولات از گروه انتخاب شده."
+
+#: inc/widgets/sp-product-filterby-category.php:16
+msgid "Display products with categories that can be filtered."
+msgstr "محصولات را با دسته هایی که فیلتر می شوند نمایش دهید."
+
+#: inc/widgets/sp-latest-products.php:16
+msgid "Display latest products."
+msgstr "نمایش جدیدترین محصولات."
+
+#: inc/widgets/sp-sponsors.php:16
+msgid "Display sponsors images."
+msgstr "نمایش تصاویر حامیان."
+
+#: inc/widgets/sp-category-collection.php:19
+msgid "MT: Category Collection"
+msgstr "MT: مجموعه دسته بندی"
+
+#: inc/widgets/sp-default-posts.php:19
+msgid "MT: Default Posts"
+msgstr "MT: پست های پیش فرض"
+
+#: inc/widgets/sp-category-products.php:19
+msgid "MT: Category Products"
+msgstr "MT: محصولات دسته بندی"
+
+#: inc/widgets/sp-product-filterby-category.php:19
+msgid "MT: Product FilterBy Category"
+msgstr "MT: فیلتر محصول بر اساس دسته بندی"
+
+#: inc/widgets/sp-latest-products.php:19
+msgid "MT: Latest Products"
+msgstr "MT: آخرین محصولات"
+
+#: inc/widgets/sp-sponsors.php:19
+msgid "MT: Sponsors"
+msgstr "MT: حامیان"
+
+#: template-parts/header/content-header.php:51
+msgid "MENU"
+msgstr "منو"
